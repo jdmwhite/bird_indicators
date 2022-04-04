@@ -1,0 +1,287 @@
+species_id,common_name,taxonomic_name,method,biome,biome_dom_perc,presences,absences,perc_pres
+10,"Albatross, Atlantic Yellow-nosed",Thalassarche chlororhynchos,perc_pres,Albany Thicket,100,1,3718,0.0268889486421081
+102,"Pochard, Southern",Netta erythrophthalma,perc_pres,Grassland,55,6073,59293,9.29076278187437
+103,"Duck, Maccoa",Oxyura maccoa,perc_pres,Grassland,53,1966,63400,3.00767983355261
+107,"Vulture, White-backed",Gyps africanus,perc_pres,Savanna,76,14054,63445,18.1344275410005
+108,"Vulture, Lappet-faced",Torgos tracheliotos,perc_pres,Savanna,77,2899,74600,3.7406934283023
+109,"Vulture, White-headed",Trigonoceps occipitalis,perc_pres,Savanna,93,1678,75821,2.16518922824811
+110,"Vulture, Hooded",Necrosyrtes monachus,perc_pres,Savanna,94,3245,74254,4.18715080194583
+111,"Vulture, Egyptian",Neophron percnopterus,perc_pres,Savanna,100,2,77497,0.00258067846036723
+115,"Hobby, Eurasian",Falco subbuteo,perc_pres,Savanna,61,786,76713,1.01420663492432
+119,"Falcon, Amur",Falco amurensis,perc_pres,Grassland,53,8595,56771,13.1490377260349
+121,"Kestrel, Dickinson's",Falco dickinsoni,perc_pres,Savanna,66,77,77422,0.0993561207241384
+128,"Kite, Black",Milvus migrans,perc_pres,Savanna,53,267,77232,0.344520574459025
+13,"Petrel, Southern Giant",Macronectes giganteus,perc_pres,Fynbos,64,41,30500,0.134245767984021
+131,"Hawk, Bat",Macheiramphus alcinus,perc_pres,Savanna,64,164,77335,0.211615633750113
+134,"Eagle, Tawny",Aquila rapax,perc_pres,Savanna,73,5599,71900,7.22460934979806
+135,"Eagle, Steppe",Aquila nipalensis,perc_pres,Savanna,87,382,77117,0.492909585930141
+136,"Eagle, Lesser Spotted",Clanga pomarina,perc_pres,Savanna,85,1099,76400,1.41808281397179
+137,"Eagle, Wahlberg's",Hieraaetus wahlbergi,perc_pres,Savanna,71,8800,68699,11.3549852256158
+140,"Hawk-Eagle, Ayre's",Hieraaetus ayresii,perc_pres,Savanna,54,120,77379,0.154840707622034
+141,"Hawk-eagle, African",Aquila spilogaster,perc_pres,Savanna,86,3940,73559,5.08393656692344
+144,"Buzzard, Lizard",Kaupifalco monogrammicus,perc_pres,Savanna,82,2463,75036,3.17810552394224
+145,"Eagle, Brown Snake",Circaetus cinereus,perc_pres,Savanna,66,7135,70364,9.2065704073601
+146,"Eagle, Black-chested Snake",Circaetus pectoralis,perc_pres,Savanna,57,5201,72298,6.71105433618498
+150,"Vulture, Bearded",Gypaetus barbatus,perc_pres,Grassland,100,793,64573,1.21316892574121
+151,-,Terathopius ecaudatus,perc_pres,Savanna,83,12139,65360,15.6634279151989
+157,"Sparrowhawk, Ovambo",Accipiter ovampensis,perc_pres,Savanna,55,811,76688,1.04646511567891
+158,"Sparrowhawk, Little",Accipiter minullus,perc_pres,Savanna,55,3318,74181,4.28134556574923
+16,"Petrel, Great-winged",Pterodroma macroptera,perc_pres,Fynbos,55,9,30532,0.0294685832160047
+161,-,Accipiter badius,perc_pres,Savanna,83,1547,75952,1.99615478909405
+162,"Goshawk, Gabar",Micronisus gabar,perc_pres,Savanna,64,5529,71970,7.13428560368521
+163,"Goshawk, Dark Chanting",Melierax metabates,perc_pres,Savanna,93,1888,75611,2.43616046658667
+173,"Francolin, Coqui",Peliperdix coqui,perc_pres,Savanna,66,4025,73474,5.19361540148905
+174,"Francolin, Crested",Dendroperdix sephaena,perc_pres,Savanna,86,29123,48376,37.5785494006374
+178,"Francolin, Red-winged",Scleroptila levaillantii,perc_pres,Grassland,65,2041,63325,3.12241838264541
+179,"Francolin, Orange River",Scleroptila gutturalis,perc_pres,Grassland,64,5241,60125,8.0179298106049
+181,"Spurfowl, Cape",Pternistis capensis,perc_pres,Fynbos,53,17036,13506,55.7789273786916
+182,"Spurfowl, Red-billed",Pternistis adspersus,perc_pres,Savanna,80,413,77086,0.532910102065833
+183,"Spurfowl, Natal",Pternistis natalensis,perc_pres,Savanna,58,30932,46567,39.9127730680396
+19,"Petrel, Soft-plumaged",Pterodroma mollis,perc_pres,Fynbos,60,4,30537,0.0130971480960021
+190,"Quail, Harlequin",Coturnix delegorguei,perc_pres,Savanna,82,958,76541,1.2361449825159
+193,"Guineafowl, Crested",Guttera pucherani,perc_pres,Savanna,58,1840,75659,2.37422418353785
+196,"Buttonquail, Common",Turnix sylvaticus,perc_pres,Savanna,64,2033,75466,2.62325965496329
+200,"Crake, Striped",Aenigmatolimnas marginalis,perc_pres,Savanna,67,36,77463,0.0464522122866102
+204,"Flufftail, White-winged",Sarothrura ayresi,perc_pres,Grassland,100,18,65348,0.0275372517822721
+209,"Gallinule, Allen's",Porphyrio alleni,perc_pres,Savanna,56,230,77269,0.296778022942231
+211,"Moorhen, Lesser",Paragallinula angulata,perc_pres,Savanna,65,728,76771,0.939366959573672
+214,"Crane, Grey Crowned",Balearica regulorum,perc_pres,Grassland,72,5399,59967,8.2596456873604
+215,"Crane, Wattled",Grus carunculata,perc_pres,Grassland,89,820,64546,1.25447480341462
+22,"Prion, Antarctic",Pachyptila desolata,perc_pres,Fynbos,88,13,30528,0.0425657313120068
+220,"Korhaan, Karoo",Eupodotis vigorsii,perc_pres,Nama-Karoo,52,2927,4092,41.7010970223679
+222,"Bustard, White-bellied",Eupodotis senegalensis,perc_pres,Grassland,61,644,64722,0.985221674876847
+223,"Korhaan, Blue",Eupodotis caerulescens,perc_pres,Grassland,77,3741,61625,5.72315882874889
+224,"Korhaan, Red-crested",Lophotis ruficrista,perc_pres,Savanna,88,13139,64360,16.9537671453825
+227,"Bustard, Black-bellied",Lissotis melanogaster,perc_pres,Savanna,61,1327,76172,1.71228015845366
+228,"Jacana, African",Actophilornis africanus,perc_pres,Savanna,53,12140,65359,15.6647182544291
+230,"Painted-snipe, Greater",Rostratula benghalensis,perc_pres,Savanna,54,789,76710,1.01807765261487
+244,"Lapwing, Senegal",Vanellus lugubris,perc_pres,Savanna,80,1354,76145,1.74711931766862
+246,"Lapwing, White-crowned",Vanellus albiceps,perc_pres,Savanna,81,1489,76010,1.9213151137434
+25,"Shearwater, Great",Ardenna gravis,perc_pres,Fynbos,75,15,30526,0.0491143053600079
+250,"Snipe, African",Gallinago nigripennis,perc_pres,Grassland,56,5674,59692,8.68035370070067
+259,"Sandpiper, Green",Tringa ochropus,perc_pres,Savanna,73,77,77422,0.0993561207241384
+271,"Phalarope, Red",Phalaropus fulicarius,perc_pres,Grassland,53,26,65340,0.0397760303521709
+277,"Courser, Temminck's",Cursorius temminckii,perc_pres,Savanna,63,1670,75829,2.15486651440664
+279,"Courser, Three-banded",Rhinoptilus cinctus,perc_pres,Savanna,59,34,77465,0.0438715338262429
+280,"Courser, Bronze-winged",Rhinoptilus chalcopterus,perc_pres,Savanna,83,1210,76289,1.56131046852217
+281,"Pratincole, Collared",Glareola pratincola,perc_pres,Savanna,58,797,76702,1.02840036645634
+282,"Pratincole, Black-winged",Glareola nordmanni,perc_pres,Grassland,63,509,64857,0.778692286509806
+285,"Jaeger, Pomarine",Stercorarius pomarinus,perc_pres,Fynbos,67,15,30527,0.049112697269334
+289,"Gull, Hartlaub's",Chroicocephalus hartlaubii,perc_pres,Fynbos,60,10767,19775,35.253094099928
+292,"Tern, Antarctic",Sterna vittata,perc_pres,Fynbos,56,158,30384,0.517320411236985
+304,"Tern, White-winged",Chlidonias leucopterus,perc_pres,Grassland,51,2077,63289,3.17749288620996
+305,"Tern, Whiskered",Chlidonias hybrida,perc_pres,Grassland,60,6116,59250,9.35654621668757
+306,"Skimmer, African",Rynchops flavirostris,perc_pres,Savanna,95,130,77369,0.16774409992387
+308,"Sandgrouse, Burchell's",Pterocles burchelli,perc_pres,Savanna,83,907,76592,1.17033768177654
+309,"Sandgrouse, Yellow-throated",Pterocles gutturalis,perc_pres,Savanna,98,371,77128,0.478715854398121
+310,"Sandgrouse, Double-banded",Pterocles bicinctus,perc_pres,Savanna,85,3965,73534,5.11619504767804
+315,"Dove, Mourning Collared",Streptopelia decipiens,perc_pres,Savanna,82,1983,75516,2.55874269345411
+320,"Dove, Blue-spotted Wood",Turtur afer,perc_pres,Savanna,70,48,77451,0.0619362830488135
+321,"Dove, Emerald-spotted Wood",Turtur chalcospilos,perc_pres,Savanna,63,28151,49348,36.324339668899
+323,"Pigeon, African Green",Treron calvus,perc_pres,Savanna,61,12037,65462,15.5318133137202
+327,"Parrot, Meyer's",Poicephalus meyeri,perc_pres,Savanna,87,780,76719,1.00646459954322
+328,"Parrot, Brown-headed",Poicephalus cryptoxanthus,perc_pres,Savanna,92,6953,70546,8.97172866746668
+339,"Go-away-bird, Grey",Crinifer concolor,perc_pres,Savanna,84,44976,32523,58.0342972167383
+340,"Cuckoo, Common",Cuculus canorus,perc_pres,Savanna,61,216,77283,0.278713273719661
+341,"Cuckoo, African",Cuculus gularis,perc_pres,Savanna,77,2016,75483,2.60132388805017
+345,"Cuckoo, Thick-billed",Pachycoccyx audeberti,perc_pres,Savanna,75,119,77380,0.15355036839185
+346,"Cuckoo, Great Spotted",Clamator glandarius,perc_pres,Savanna,75,1677,75822,2.16389888901792
+347,"Cuckoo, Levaillant's",Clamator levaillantii,perc_pres,Savanna,86,5077,72422,6.55105227164221
+348,"Cuckoo, Jacobin",Clamator jacobinus,perc_pres,Savanna,63,7500,69999,9.67754422637712
+353,"Coucal, Black",Centropus grillii,perc_pres,Savanna,62,69,77430,0.0890334068826695
+360,"Owl, African Grass",Tyto capensis,perc_pres,Grassland,62,220,65146,0.336566410672215
+361,"Owl, Marsh",Asio capensis,perc_pres,Grassland,65,2916,62450,4.46103478872808
+363,"Owl, African Scops",Otus senegalensis,perc_pres,Savanna,77,3998,73502,5.15870967741936
+364,"Owl, Southern White-faced Scops",Ptilopsis granti,perc_pres,Savanna,79,1470,76030,1.89677419354839
+365,"Owlet, Pearl-spotted",Glaucidium perlatum,perc_pres,Savanna,86,11497,66003,14.8348387096774
+366,"Owlet, African Barred",Glaucidium capense,perc_pres,Savanna,86,1465,76035,1.89032258064516
+369,"Eagle-Owl, Verreaux's",Bubo lacteus,perc_pres,Savanna,79,2263,75237,2.92
+370,"Owl, Pel's Fishing",Scotopelia peli,perc_pres,Savanna,59,128,77372,0.165161290322581
+371,"Nightjar, European",Caprimulgus europaeus,perc_pres,Savanna,63,492,77008,0.634838709677419
+376,"Nightjar, Square-tailed",Caprimulgus fossii,perc_pres,Savanna,79,1507,75993,1.94451612903226
+398,"Kingfisher, African Pygmy",Ispidina picta,perc_pres,Savanna,54,1491,76009,1.92387096774194
+399,"Kingfisher, Woodland",Halcyon senegalensis,perc_pres,Savanna,84,15528,61972,20.0361290322581
+401,"Kingfisher, Grey-headed",Halcyon leucocephala,perc_pres,Savanna,87,637,76863,0.821935483870968
+403,"Kingfisher, Striped",Halcyon chelicuti,perc_pres,Savanna,81,6131,71369,7.91096774193548
+405,"Bee-eater, Blue-cheeked",Merops persicus,perc_pres,Savanna,56,1691,75809,2.18193548387097
+407,"Bee-eater, Southern Carmine",Merops nubicoides,perc_pres,Savanna,91,2308,75192,2.97806451612903
+409,"Bee-eater, White-fronted",Merops bullockoides,perc_pres,Savanna,57,15178,62322,19.5845161290323
+410,"Bee-eater, Little",Merops pusillus,perc_pres,Savanna,69,10357,67143,13.3638709677419
+411,"Bee-eater, Swallow-tailed",Merops hirundineus,perc_pres,Savanna,56,2516,74984,3.24645161290323
+412,"Roller, European",Coracias garrulus,perc_pres,Savanna,62,7226,70274,9.32387096774194
+413,"Roller, Lilac-breasted",Coracias caudatus,perc_pres,Savanna,84,24955,52545,32.2
+415,"Roller, Purple",Coracias naevius,perc_pres,Savanna,92,5713,71787,7.37161290322581
+416,"Roller, Broad-billed",Eurystomus glaucurus,perc_pres,Savanna,59,1140,76360,1.47096774193548
+421,"Scimitarbill, Common",Rhinopomastus cyanomelas,perc_pres,Savanna,63,13202,64298,17.0348387096774
+424,"Hornbill, African Grey",Lophoceros nasutus,perc_pres,Savanna,84,29346,48154,37.8658064516129
+426,"Hornbill, Southern Yellow-billed",Tockus leucomelas,perc_pres,Savanna,89,30630,46870,39.5225806451613
+43,"Gannet, Australasian",Morus serrator,perc_pres,Fynbos,100,3,30538,0.00982286107200157
+430,"Hornbill, Southern Ground",Bucorvus leadbeateri,perc_pres,Savanna,63,3111,74389,4.0141935483871
+437,"Tinkerbird, Yellow-fronted",Pogoniulus chrysoconus,perc_pres,Savanna,78,13774,63726,17.7729032258065
+445,"Woodpecker, Ground",Geocolaptes olivaceus,perc_pres,Grassland,54,2626,62740,4.01737906556926
+446,"Woodpecker, Bennett's",Campethera bennettii,perc_pres,Savanna,90,2314,75186,2.9858064516129
+447,"Woodpecker, Golden-tailed",Campethera abingoni,perc_pres,Savanna,62,19171,58329,24.7367741935484
+451,"Woodpecker, Bearded",Chloropicus namaquus,perc_pres,Savanna,83,8921,68579,11.5109677419355
+453,"Wryneck, Red-throated",Jynx ruficollis,perc_pres,Grassland,60,11808,53558,18.0644371691705
+456,"Lark, Melodious",Mirafra cheniana,perc_pres,Grassland,66,915,64451,1.39981029893217
+457,"Lark, Monotonous",Mirafra passerina,perc_pres,Savanna,89,1769,75731,2.28258064516129
+459,"Lark, Fawn-colored",Calendulauda africanoides,perc_pres,Savanna,54,3744,73756,4.83096774193548
+464,"Lark, Dusky",Pinarocorys nigricans,perc_pres,Savanna,88,818,76682,1.05548387096774
+465,"Lark, Short-clawed",Certhilauda chuana,perc_pres,Savanna,82,687,76813,0.886451612903226
+466,"Lark, Clapper",Mirafra apiata,perc_pres,Fynbos,100,1,30542,0.00327407261893069
+468,"Lark, Flappet",Mirafra rufocinnamomea,perc_pres,Savanna,81,1675,75825,2.16129032258065
+472,"Lark, Botha's",Spizocorys fringillaris,perc_pres,Grassland,100,50,65316,0.076492366061867
+473,"Lark, Rudd's",Heteromirafra ruddi,perc_pres,Grassland,100,164,65202,0.250894960682924
+479,"Lark, Red",Calendulauda burra,perc_pres,Nama-Karoo,70,196,6823,2.79242057273116
+486,"Sparrow-Lark, Black-eared",Eremopterix australis,perc_pres,Nama-Karoo,61,565,6454,8.04957971220972
+49,"Cormorant, Bank",Phalacrocorax neglectus,perc_pres,Fynbos,69,1083,29458,3.54605284699257
+490,"Lark, Pink-billed",Spizocorys conirostris,perc_pres,Grassland,51,1254,64112,1.91842854083163
+491,"Lark, Sclater's",Spizocorys sclateri,perc_pres,Nama-Karoo,68,129,6890,1.83786864225673
+492,"Lark, Stark's",Spizocorys starki,perc_pres,Nama-Karoo,54,321,6698,4.57330104003419
+496,"Swallow, Wire-tailed",Hirundo smithii,perc_pres,Savanna,70,9725,67776,12.5482251841912
+497,"Swallow, Blue",Hirundo atrocaerulea,perc_pres,Grassland,59,75,65291,0.114738549092801
+499,"Swallow, Grey-rumped",Pseudhirundo griseopyga,perc_pres,Savanna,68,2132,75369,2.75093224603554
+500,"Swallow, Mosque",Cecropis senegalensis,perc_pres,Savanna,89,1046,76455,1.34966000438704
+501,"Swallow, Red-breasted",Cecropis semirufa,perc_pres,Savanna,59,11414,66087,14.7275519025561
+504,"Swallow, South African Cliff",Petrochelidon spilodera,perc_pres,Grassland,67,10377,54989,15.8752256524799
+51,"Cormorant, Crowned",Microcarbo coronatus,perc_pres,Fynbos,66,2380,28161,7.79280311712125
+510,"Martin, Banded",Riparia cincta,perc_pres,Grassland,60,8011,57355,12.2556068904323
+513,"Cuckooshrike, Black",Campephaga flava,perc_pres,Savanna,51,6673,70828,8.61021148114218
+514,"Tit, Ashy",Melaniparus cinerascens,perc_pres,Savanna,61,4462,73039,5.75734506651527
+515,"Cuckooshrike, White-breasted",Ceblepyris pectoralis,perc_pres,Savanna,74,52,77449,0.0670959084398911
+519,"Oriole, Eurasian Golden",Oriolus oriolus,perc_pres,Savanna,72,1080,76421,1.39353040605928
+520,"Oriole, African Golden",Oriolus auratus,perc_pres,Savanna,75,39,77462,0.0503219313299183
+527,"Tit, Southern Black",Melaniparus niger,perc_pres,Savanna,56,20690,56811,26.6964297234874
+530,"Tit, Grey Penduline",Anthoscopus caroli,perc_pres,Savanna,86,1814,75687,2.34061495980697
+533,"Babbler, Arrow-marked",Turdoides jardineii,perc_pres,Savanna,74,35659,41842,46.0110192126553
+536,"Babbler, Southern Pied",Turdoides bicolor,perc_pres,Savanna,92,5060,72441,6.52894801357402
+540,"Rockjumper, Cape",Chaetops frenatus,perc_pres,Fynbos,77,578,29965,1.89241397374194
+542,"Blackcap, Bush",Sylvia nigricapillus,perc_pres,Grassland,70,752,64614,1.15044518557048
+550,"Greenbul, Yellow-bellied",Chlorocichla flaviventris,perc_pres,Savanna,74,6311,71190,8.14312073392601
+552,"Thrush, Kurrichane",Turdus libonyana,perc_pres,Savanna,59,22573,54928,29.1260757925704
+557,"Thrush, Groundscraper",Turdus litsitsirupa,perc_pres,Savanna,67,15236,62265,19.6591011728881
+560,"Thrush, Sentinel Rock",Monticola explorator,perc_pres,Grassland,67,1341,64025,2.05152525777927
+563,"Wheatear, Northern",Oenanthe oenanthe,perc_pres,Savanna,100,12,77489,0.0154836711784364
+567,"Scrub Robin, Rufous-tailed",Cercotrichas galactotes,perc_pres,Fynbos,100,37,30506,0.121140686900435
+569,"Chat, Buff-streaked",Campicoloides bifasciatus,perc_pres,Grassland,79,4221,61145,6.45748554294281
+574,"Chat, Arnot's",Myrmecocichla arnotti,perc_pres,Savanna,64,111,77390,0.143223958400537
+580,"Robin-Chat, White-browed",Cossypha heuglini,perc_pres,Savanna,73,9106,68395,11.7495258125702
+582,"Robin-Chat, White-throated",Cossypha humeralis,perc_pres,Savanna,80,13152,64349,16.9701036115663
+585,"Scrub Robin, Bearded",Cercotrichas quadrivirgata,perc_pres,Savanna,78,2644,74857,3.41156888298215
+586,"Scrub Robin, Kalahari",Cercotrichas paena,perc_pres,Savanna,58,11423,66078,14.7391646559399
+588,"Scrub Robin, White-browed",Cercotrichas leucophrys,perc_pres,Savanna,60,34492,43009,44.5052321905524
+592,"Nightingale, Thrush",Luscinia luscinia,perc_pres,Savanna,68,168,77333,0.21677139649811
+594,"Whitethroat, Common",Curruca communis,perc_pres,Savanna,56,551,76950,0.710958568276538
+596,"Warbler, Icterine",Hippolais icterina,perc_pres,Savanna,71,1138,76363,1.46836815008839
+597,"Warbler, Olive-tree",Hippolais olivetorum,perc_pres,Savanna,88,683,76818,0.881278951239339
+598,"Warbler, River",Locustella fluviatilis,perc_pres,Savanna,64,130,77371,0.167739771099728
+601,"Eremomela, Burnt-necked",Eremomela usticollis,perc_pres,Savanna,92,7575,69926,9.77406743138798
+602,"Eremomela, Green-capped",Eremomela scotops,perc_pres,Savanna,85,802,76699,1.03482535709217
+612,"Warbler, Victorin's",Cryptillas victorini,perc_pres,Fynbos,67,1331,29212,4.35779065579675
+614,"Wren-Warbler, Barred",Calamonastes fasciolatus,perc_pres,Savanna,89,3486,74015,4.49800647733578
+615,"Wren-Warbler, Stierling's",Calamonastes stierlingi,perc_pres,Savanna,92,3160,74341,4.07736674365492
+624,"Apalis, Rudd's",Apalis ruddi,perc_pres,Savanna,56,1212,76290,1.56383061082295
+625,"Apalis, Yellow-breasted",Apalis flavida,perc_pres,Savanna,52,13178,64324,17.0034321694924
+628,"Camaroptera, Grey-backed",Camaroptera brevicaudata,perc_pres,Savanna,89,9012,68490,11.6280870171092
+63,"Heron, Striated",Butorides striata,perc_pres,Savanna,64,10673,66826,13.7717906037497
+631,"Cisticola, Cloud",Cisticola textrix,perc_pres,Grassland,63,9739,55627,14.8991830615305
+634,"Cisticola, Wing-snapping",Cisticola ayresii,perc_pres,Grassland,66,7568,57798,11.5778845271242
+635,"Cisticola, Pale-crowned",Cisticola cinnamomeus,perc_pres,Grassland,82,1384,63982,2.11730869259248
+639,"Cisticola, Wailing",Cisticola lais,perc_pres,Grassland,61,4803,60563,7.34785668390295
+641,"Cisticola, Tinkling",Cisticola rufilatus,perc_pres,Savanna,83,329,77174,0.424499696785931
+642,"Cisticola, Rattling",Cisticola chiniana,perc_pres,Savanna,70,35674,41829,46.0291859669948
+644,"Cisticola, Red-faced",Cisticola erythrops,perc_pres,Savanna,66,8012,69491,10.3376643484768
+654,"Flycatcher, Spotted",Muscicapa striata,perc_pres,Savanna,52,15479,62024,19.9721301110925
+656,"Flycatcher, Ashy",Muscicapa caerulescens,perc_pres,Savanna,53,4863,72640,6.27459582209721
+657,"Tit-Flycatcher, Grey",Myioparus plumbeus,perc_pres,Savanna,81,6269,71234,8.08871914635562
+66,"Bittern, Dwarf",Ixobrychus sturmii,perc_pres,Savanna,78,613,76886,0.790977948102556
+661,"Flycatcher, Marico",Melaenornis mariquensis,perc_pres,Savanna,85,12125,65378,15.6445556946183
+662,"Flycatcher, Pale",Melaenornis pallidus,perc_pres,Savanna,80,2824,74679,3.64372992013212
+664,"Flycatcher, Southern Black",Melaenornis pammelaina,perc_pres,Savanna,53,17290,60213,22.308813852367
+668,"Hyliota, Southern",Hyliota australis,perc_pres,Savanna,100,5,77498,0.00645136317303846
+673,"Batis, Chinspot",Batis molitor,perc_pres,Savanna,58,36391,41112,46.9543114460085
+698,"Pipit, Tree",Anthus trivialis,perc_pres,Savanna,67,64,77439,0.0825774486148923
+699,"Pipit, Bushveld",Anthus caffer,perc_pres,Savanna,84,1806,75697,2.33023237810149
+70,"Heron, White-backed Night",Gorsachius leuconotus,perc_pres,Savanna,64,239,77260,0.308391076013884
+700,"Pipit, Short-tailed",Anthus brachyurus,perc_pres,Grassland,66,64,65302,0.0979102285591898
+701,"Pipit, Yellow-breasted",Anthus chloris,perc_pres,Grassland,97,554,64812,0.847535415965487
+702,"Pipit, Golden",Tmetothylacus tenellus,perc_pres,Savanna,83,33,77470,0.0425789969420539
+703,"Longclaw, Cape",Macronyx capensis,perc_pres,Grassland,57,33153,32213,50.7190282409815
+706,"Shrike, Lesser Grey",Lanius minor,perc_pres,Savanna,64,8086,69417,10.4331445234378
+708,"Shrike, Red-backed",Lanius collurio,perc_pres,Savanna,54,18245,59258,23.5410242184174
+711,"Shrike, Crimson-breasted",Laniarius atrococcineus,perc_pres,Savanna,78,16062,61441,20.7243590570688
+712,"Puffback, Black-backed",Dryoscopus cubla,perc_pres,Savanna,56,35311,42192,45.5608170006322
+714,"Tchagra, Brown-crowned",Tchagra australis,perc_pres,Savanna,71,25341,52162,32.6967988335935
+715,"Tchagra, Black-crowned",Tchagra senegalus,perc_pres,Savanna,54,20665,56838,26.663483994168
+719,"Bushshrike, Orange-breasted",Chlorophoneus sulfureopectus,perc_pres,Savanna,63,22164,55339,28.5976026734449
+721,"Bushshrike, Gorgeous",Telophorus viridis,perc_pres,Savanna,54,5531,71972,7.13649794201515
+723,"Bushshrike, Grey-headed",Malaconotus blanchoti,perc_pres,Savanna,63,16153,61350,20.8417738668181
+724,"Shrike, Magpie",Urolestes melanoleucus,perc_pres,Savanna,92,23888,53615,30.8220326955086
+725,"Nicator, Eastern",Nicator gularis,perc_pres,Savanna,64,2706,74797,3.49147774924842
+727,"Helmetshrike, White-crested",Prionops plumatus,perc_pres,Savanna,82,9819,67684,12.6691869992129
+728,"Helmetshrike, Retz's",Prionops retzii,perc_pres,Savanna,85,2960,74543,3.81920699843877
+73,"Stork, Marabou",Leptoptilos crumenifer,perc_pres,Savanna,81,4682,72817,6.04136827571969
+730,"Shrike, Southern White-crowned",Eurocephalus anguitimens,perc_pres,Savanna,96,6536,70967,8.43322193979588
+731,-,Nilaus afer,perc_pres,Savanna,66,19413,58090,25.0480626556391
+736,"Starling, Violet-backed",Cinnyricinclus leucogaster,perc_pres,Savanna,63,12856,64647,16.5877449905165
+738,"Starling, Greater Blue-eared",Lamprotornis chalybaeus,perc_pres,Savanna,93,8186,69317,10.5621717868986
+739,"Starling, Miombo Blue-eared",Lamprotornis elisabeth,perc_pres,Savanna,100,3,77500,0.00387081790382308
+742,"Starling, Meves's",Lamprotornis mevesii,perc_pres,Savanna,75,742,76761,0.957382294878908
+743,"Starling, Burchell's",Lamprotornis australis,perc_pres,Savanna,91,15014,62489,19.3721533359999
+747,"Oxpecker, Yellow-billed",Buphagus africanus,perc_pres,Savanna,92,1902,75601,2.45409855102383
+748,"Oxpecker, Red-billed",Buphagus erythrorynchus,perc_pres,Savanna,82,22601,54902,29.1614518147685
+749,"Sugarbird, Cape",Promerops cafer,perc_pres,Fynbos,69,7713,22830,25.2529221098124
+75,"Stork, Saddle-billed",Ephippiorhynchus senegalensis,perc_pres,Savanna,81,3531,73968,4.55618782177835
+750,"Sugarbird, Gurney's",Promerops gurneyi,perc_pres,Grassland,60,725,64641,1.10913930789707
+753,"Sunbird, Orange-breasted",Anthobaphes violacea,perc_pres,Fynbos,70,5840,24703,19.1205840945552
+755,"Sunbird, Marico",Cinnyris mariquensis,perc_pres,Savanna,89,13508,63995,17.4290027482807
+76,"Stork, Yellow-billed",Mycteria ibis,perc_pres,Savanna,53,5382,72117,6.94460573684822
+763,"Sunbird, White-bellied",Cinnyris talatala,perc_pres,Savanna,61,38979,38524,50.2935370243733
+77,"Stork, Woolly-necked",Ciconia episcopus,perc_pres,Savanna,55,2928,74571,3.77811326597763
+774,"Sunbird, Scarlet-chested",Chalcomitra senegalensis,perc_pres,Savanna,66,8884,68619,11.4627820858547
+779,"Weaver, Red-billed Buffalo",Bubalornis niger,perc_pres,Savanna,93,10154,67350,13.1012592898431
+78,"Stork, Abdim's",Ciconia abdimii,perc_pres,Savanna,58,1119,76380,1.44388959857547
+785,"Sparrow, Great",Passer motitensis,perc_pres,Savanna,88,2025,75479,2.61276837324525
+787,"Sparrow, Grey-headed",Passer diffusus,perc_pres,Savanna,100,2,77502,0.00258051197357556
+789,"Weaver, Scaly-feathered",Sporopipes squamifrons,perc_pres,Savanna,54,13300,64204,17.1604046242775
+792,"Masked-weaver, Lesser",Ploceus intermedius,perc_pres,Savanna,80,6914,70590,8.9208298926507
+793,"Weaver, Red-headed",Anaplectes rubriceps,perc_pres,Savanna,91,6301,71203,8.12990297274979
+812,"Bishop, Yellow-crowned",Euplectes afer,perc_pres,Grassland,67,11078,54288,16.9476486246673
+816,"Widowbird, Fan-tailed",Euplectes axillaris,perc_pres,Grassland,51,9794,55572,14.9833246641985
+818,"Widowbird, Long-tailed",Euplectes progne,perc_pres,Grassland,73,30249,35117,46.2763516201083
+82,"Ibis, Southern Bald",Geronticus calvus,perc_pres,Grassland,79,6401,58965,9.79255270324022
+821,"Finch, Cut-throat",Amadina fasciata,perc_pres,Savanna,87,7138,70366,9.20984723369116
+829,"Pytilia, Orange-winged",Pytilia afra,perc_pres,Savanna,85,65,77439,0.0838666391412056
+830,"Pytilia, Green-winged",Pytilia melba,perc_pres,Savanna,76,14442,63062,18.6338769611891
+831,"Twinspot, Pink-throated",Hypargos margaritatus,perc_pres,Savanna,69,1058,76446,1.36509083402147
+835,"Firefinch, Jameson's",Lagonosticta rhodopareia,perc_pres,Savanna,77,10229,67275,13.1980284888522
+837,"Firefinch, Red-billed",Lagonosticta senegala,perc_pres,Savanna,58,12027,65477,15.5179087530966
+839,"Waxbill, Blue",Uraeginthus angolensis,perc_pres,Savanna,67,44735,32769,57.7196015689513
+840,"Waxbill, Violet-eared",Granatina granatina,perc_pres,Savanna,79,7530,69974,9.71562758051197
+841,"Waxbill, Black-faced",Brunhilda erythronotos,perc_pres,Savanna,73,5388,72116,6.95189925681255
+844,-,Ortygospiza atricollis,perc_pres,Grassland,53,12890,52476,19.7197319707493
+847,"Whydah, Shaft-tailed",Vidua regia,perc_pres,Savanna,77,3922,73582,5.06038398018167
+850,"Indigobird, Purple",Vidua purpurascens,perc_pres,Savanna,78,1562,75942,2.01537985136251
+851,"Indigobird, Village",Vidua chalybeata,perc_pres,Savanna,64,4476,73028,5.7751857968621
+852,"Whydah, Long-tailed Paradise",Vidua paradisaea,perc_pres,Savanna,73,7333,70171,9.46144715111478
+855,"Siskin, Cape",Crithagra totta,perc_pres,Fynbos,66,2677,27866,8.76469240087745
+856,"Siskin, Drakensberg",Crithagra symonsi,perc_pres,Grassland,99,423,64944,0.647115517003993
+869,"Canary, Protea",Crithagra leucoptera,perc_pres,Fynbos,70,461,30082,1.50934747732705
+870,"Chaffinch, Common",Fringilla coelebs,perc_pres,Fynbos,100,1193,29350,3.90596863438431
+874,"Bunting, Golden-breasted",Emberiza flaviventris,perc_pres,Savanna,55,21861,55643,28.2062861271676
+883,"Heron, Malagasy Pond",Ardeola idae,perc_pres,Savanna,100,17,77487,0.0219343517753922
+885,-,Spatula querquedula,perc_pres,Grassland,100,1,65366,0.00152982391726712
+886,"Pintail, Northern",Anas acuta,perc_pres,Grassland,100,1,65366,0.00152982391726712
+892,"Flufftail, Streaky-breasted",Sarothrura boehmi,perc_pres,Savanna,100,13,77491,0.0167733278282411
+9,"Albatross, Grey-headed",Thalassarche chrysostoma,perc_pres,Fynbos,100,1,30540,0.00327428702400052
+901,"Gull, Sabine's",Xema sabini,perc_pres,Fynbos,67,57,30486,0.186622139279049
+902,"Tern, Gull-billed",Gelochelidon nilotica,perc_pres,Savanna,67,32,77472,0.0412881915772089
+91,"Duck, Knob-billed",Sarkidiornis melanotos,perc_pres,Savanna,68,3885,73614,5.01296790926335
+928,"Pipit, Mountain",Anthus hoeschi,perc_pres,Grassland,98,190,65177,0.290666544280753
+938,"Tern, White-cheeked",Sterna repressa,perc_pres,Indian Ocean Coastal Belt,100,5,5138,0.0972195216799533
+974,"Duck, Hybrid Red/Yellow-billed",Anas erythroryncha/undulata,perc_pres,Grassland,60,6,65362,0.00917880308407784
+977,"Boubou, Ethiopian",Laniarius aethiopicus,perc_pres,Savanna,73,457,77048,0.589639378104638
+980,"Partridge, Chukar",Alectoris chukar,perc_pres,Fynbos,100,158,30385,0.517303473791049
+984,"Petrel, Northern Giant",Macronectes halli,perc_pres,Fynbos,83,36,30507,0.117866614281505
+985,"Stint, Temminck's",Calidris temminckii,perc_pres,Fynbos,100,96,30447,0.314310971417346
+987,"Penguin, King",Aptenodytes patagonicus,perc_pres,Fynbos,100,4,30539,0.0130962904757228
