@@ -64,6 +64,7 @@ pent_cov %>% mutate(dom_biome = case_when(
 #### Identify forest pentads ----
 pent %>% left_join(perc_cov, by = 'PENTADE') %>% dplyr::filter(Forests > 0) -> forests_pent
 
+## Plots ----
 plot0 <- ggplot() +
   geom_sf(data = pent, col = 'gray', fill = 'gray') +
   geom_sf(data = forests_pent %>% filter(Forests > 0), aes(fill = Forests), col = NA) +
