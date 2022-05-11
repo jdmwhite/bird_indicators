@@ -27,7 +27,7 @@ names(pres)[1] <- 'species_id'
 ###
 pres_join <- dom_vals_1 %>% left_join(pres, by = 'species_id')
 
-write_csv(pres_join, 'data/presence_values/full_presence_biome_and_cards.csv')
+# write_csv(pres_join, 'data/presence_values/full_presence_biome_and_cards.csv')
 
 ####
 # pres_join %>% filter(perc_pres > quantile(pres_join$perc_pres)[3]) -> pres_quantile
