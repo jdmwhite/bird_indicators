@@ -30,6 +30,7 @@ indicator_spp$species_id
 # Consider running the template filter, adding in 1/0 presence on each species, adding in whether they are an indicator or general, saving a new csv for each and then load them in one at a time, append them to the csv and then remove them from local memory.
 # I don't think R can easily handle loading in 286 indicator species in one go. 286*30mb each = 8.5gb
 # = list of 286, which gets 
+# Actually, this would be ALL species, so it will be MUCH bigger! Way better to process each individually. 
 
 # load in each species df and add it to a list
 indicator_list <- list()
