@@ -1,5 +1,5 @@
 ---
-title: "test_glmer_fyn"
+title: "Test glmer on fynbos indicator species"
 author: "JDM WHITE"
 date: "11/05/2022"
 output: rmarkdown::github_document
@@ -9,7 +9,7 @@ output: rmarkdown::github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r libraries, message = FALSE, results=FALSE, echo=FALSE}
+```{r libraries, message = FALSE, results=FALSE, warning=FALSE}
 # Libraries
 library(tidyverse)
 library(lme4)
@@ -27,19 +27,28 @@ str(fyn_df)
 ```
 
 ```{r run mixed effects model}
+# measure time taken...
+# start
+start_time <- Sys.time()
 # run a mixed effects model; year = fixed; species = random
-glm1 <- glmer(Presence ~ Year  + (1|Species_Code), family = 'binomial', data = fyn_df)
+glmer1 <- glmer(Presence ~ Year  + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
+
+# end
+end_time <- Sys.time()
+# How long did this take to run?
+end_time - start_time
 ```
 
 ```{r}
-summary(glm1)
+# Summary of model
+summary(glmer1)
 
 # car::Anova
-Anova(glm1)
+Anova(glmer1)
 ```
 
 ```{r}
 # Plot effects
-plot(allEffects(glm1))
+plot(allEffects(glmer1))
 ```
 

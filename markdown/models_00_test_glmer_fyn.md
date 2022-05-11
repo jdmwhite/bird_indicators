@@ -1,13 +1,15 @@
-test\_glmer\_fyn
+Test glmer on fynbos indicator species
 ================
 JDM WHITE
 11/05/2022
 
-    ## Warning: package 'tidyr' was built under R version 4.0.5
-
-    ## Warning: package 'dplyr' was built under R version 4.0.5
-
-    ## Warning: package 'effects' was built under R version 4.0.5
+``` r
+# Libraries
+library(tidyverse)
+library(lme4)
+library(car)
+library(effects)
+```
 
 ``` r
 # Load fynbos stacked df
@@ -90,47 +92,65 @@ str(fyn_df)
     ##  - attr(*, "problems")=<externalptr>
 
 ``` r
+# measure time taken...
+# start
+start_time <- Sys.time()
 # run a mixed effects model; year = fixed; species = random
-glm1 <- glmer(Presence ~ Year  + (1|Species_Code), family = 'binomial', data = fyn_df)
+glmer1 <- glmer(Presence ~ Year  + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
 ```
+
+    ## Warning in checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv, :
+    ## Model failed to converge with max|grad| = 0.333393 (tol = 0.002, component 1)
 
     ## Warning in checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv, : Model is nearly unidentifiable: very large eigenvalue
     ##  - Rescale variables?;Model is nearly unidentifiable: large eigenvalue ratio
     ##  - Rescale variables?
 
 ``` r
-summary(glm1)
+# end
+end_time <- Sys.time()
+# How long did this take to run?
+end_time - start_time
+```
+
+    ## Time difference of 4.020594 mins
+
+``` r
+# Summary of model
+summary(glmer1)
 ```
 
     ## Generalized linear mixed model fit by maximum likelihood (Laplace
     ##   Approximation) [glmerMod]
     ##  Family: binomial  ( logit )
-    ## Formula: Presence ~ Year + (1 | Species_Code)
+    ## Formula: Presence ~ Year + (1 + Year | Species_Code)
     ##    Data: fyn_df
     ## 
     ##      AIC      BIC   logLik deviance df.resid 
-    ## 150462.7 150492.1 -75228.3 150456.7   135931 
+    ## 150257.5 150306.6 -75123.7 150247.5   135929 
     ## 
     ## Scaled residuals: 
     ##     Min      1Q  Median      3Q     Max 
-    ## -1.1229 -0.6227 -0.4319  0.9014  3.5926 
+    ## -1.1728 -0.6198 -0.4330  0.8864  3.9263 
     ## 
     ## Random effects:
-    ##  Groups       Name        Variance Std.Dev.
-    ##  Species_Code (Intercept) 0.6071   0.7792  
+    ##  Groups       Name        Variance  Std.Dev. Corr 
+    ##  Species_Code (Intercept) 5.339e+03 73.0693       
+    ##               Year        1.310e-03  0.0362  -1.00
     ## Number of obs: 135934, groups:  Species_Code, 8
     ## 
     ## Fixed effects:
     ##               Estimate Std. Error z value Pr(>|z|)    
-    ## (Intercept)  6.7973736  0.2723734   24.96   <2e-16 ***
-    ## Year        -0.0040588  0.0001913  -21.22   <2e-16 ***
+    ## (Intercept)  3.6687394  0.2587569   14.18   <2e-16 ***
+    ## Year        -0.0025087  0.0001864  -13.46   <2e-16 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## 
     ## Correlation of Fixed Effects:
     ##      (Intr)
-    ## Year -0.702
+    ## Year -0.687
     ## optimizer (Nelder_Mead) convergence code: 0 (OK)
+    ## Model failed to converge with max|grad| = 0.333393 (tol = 0.002, component 1)
     ## Model is nearly unidentifiable: very large eigenvalue
     ##  - Rescale variables?
     ## Model is nearly unidentifiable: large eigenvalue ratio
@@ -138,20 +158,20 @@ summary(glm1)
 
 ``` r
 # car::Anova
-Anova(glm1)
+Anova(glmer1)
 ```
 
     ## Analysis of Deviance Table (Type II Wald chisquare tests)
     ## 
     ## Response: Presence
     ##       Chisq Df Pr(>Chisq)    
-    ## Year 450.16  1  < 2.2e-16 ***
+    ## Year 181.12  1  < 2.2e-16 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 ``` r
 # Plot effects
-plot(allEffects(glm1))
+plot(allEffects(glmer1))
 ```
 
 ![](models_00_test_glmer_fyn_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->

@@ -11,16 +11,26 @@ fyn_df <- read_csv('output/biome_indicator_dfs/fynbos/fynbos_df.csv')
 fyn_df$Year <- lubridate::year(fyn_df$StartDate)
 str(fyn_df)
 
+# Option to run with Indicator Type as a fixed effect
+# glmer1 <- glmer(Presence ~ Year*Indicator_Type + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
+
+# measure time taken...
+start_time <- Sys.time()
 # run a mixed effects model; year = fixed; species = random
-# glm1 <- glmer(Presence ~ Year*Indicator_Type + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
-glm1 <- glmer(Presence ~ Year + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
-summary(glm1)
+glmer1 <- glmer(Presence ~ Year  + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
+end_time <- Sys.time()
+
+# How long did this take to run?
+end_time - start_time
+
+# Summary of model
+summary(glmer1)
 
 # Anova
-Anova(glm1)
+Anova(glmer1)
 
 # Plot effects
-plot(allEffects(glm1))
+plot(allEffects(glmer1))
 
 
 
