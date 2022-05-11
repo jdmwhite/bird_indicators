@@ -6,6 +6,8 @@ library(magrittr)
 pent <- read_sf('data/pentads/original/pentad_sa.shp')
 head(pent)
 
+plot(pent['QDGC'])
+
 ## Template card
 template <- read_csv('data/sabap_cards_raw/181.csv')
 
