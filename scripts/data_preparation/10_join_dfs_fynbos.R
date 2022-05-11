@@ -48,3 +48,9 @@ fyn_df <- bind_rows(fyn_list_clean, .id = 'Species_Code')
 write_csv(fyn_df, 'output/biome_indicator_dfs/fynbos/fynbos_df.csv')
 
 # Note: make full df, with all birds and their indicator type
+
+pres_df <- read_csv('data/presence_values/full_presence_biome_and_cards.csv')
+
+pres_df %>% filter(biome == 'Fynbos') -> fynbos_birds
+
+# Note: we need to find a way to remove the waterbirds/coastal/forest birds from these biome indicator groups. 
