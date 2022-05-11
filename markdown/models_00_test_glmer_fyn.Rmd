@@ -1,0 +1,45 @@
+---
+title: "test_glmer_fyn"
+author: "JDM WHITE"
+date: "11/05/2022"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, message = FALSE, results=FALSE, echo=FALSE}
+# Libraries
+library(tidyverse)
+library(lme4)
+library(car)
+library(effects)
+```
+
+```{r load and change fyn}
+# Load fynbos stacked df
+fyn_df <- read_csv('fynbos_df.csv')
+
+# add in year variable
+fyn_df$Year <- lubridate::year(fyn_df$StartDate)
+str(fyn_df)
+```
+
+```{r run mixed effects model}
+# run a mixed effects model; year = fixed; species = random
+glm1 <- glmer(Presence ~ Year  + (1|Species_Code), family = 'binomial', data = fyn_df)
+```
+
+```{r}
+summary(glm1)
+
+# car::Anova
+Anova(glm1)
+```
+
+```{r}
+# Plot effects
+plot(allEffects(glm1))
+```
+
