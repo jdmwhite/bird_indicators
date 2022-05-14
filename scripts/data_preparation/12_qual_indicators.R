@@ -3,7 +3,7 @@ library(dplyr)
 library(stringr)
 
 #importing the data
-roberts <- read_csv('Data/robertsbirds.csv')
+roberts <- read_csv('data/roberts/robertsbirds.csv')
 
 #separating the different species based on habitat
 #keeping all species that have that habitat as their main (==3) and making sure 
@@ -36,12 +36,16 @@ woodland_species <- roberts %>%
          Thicket<2,Fynbos<2,Karoo<2,Lagoons<2,`Semi-arid`<2,`Namib desert`<2, 
          Agricultural<2, `Open coast`<2,Marine<2)
 
-#want to limit it to just South African birds (currently Southern African)
-south_african_species <- read_csv('Data/SABAP cards raw/country_southafrica_specieslist.csv')
-south_african_species$Scientific_name <- paste(south_african_species$Genus, south_african_species$Species)
+#marine species to filter other lists by
+coastal_species <- roberts %>%
+  group_by(`Open coast`) %>%
+  filter(Wetland<3,Cliffs<3,Forest<3,Woodland<3,Grassland<3,Savanna<3, 
+         Thicket<3,Fynbos<3,Karoo<3,Lagoons<3,`Semi-arid`<3,`Namib desert`<3, 
+         Agricultural<3, `Open coast`<3,Marine==3)
 
 
-write_csv(coastal_species, 'Outputs/coastal_species.csv')
-write_csv(forest_species, 'Outputs/forest_species.csv')
-write_csv(wetland_species, 'Outputs/wetland_species.csv')
-write_csv(woodland_species, 'Outputs/woodland_species')
+
+write_csv(coastal_species, 'data/wetland&forest/coastal_species.csv')
+write_csv(forest_species, 'data/wetland&forest/forest_species.csv')
+write_csv(wetland_species, 'data/wetland&forest/wetland_species.csv')
+write_csv(marine_species, 'data/wetland&forest/marine_species.csv')
