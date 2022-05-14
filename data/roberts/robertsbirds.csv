@@ -1,0 +1,950 @@
+Rob6,Common name,Scientific name,Endemic,Red Data Status (BirdLife Int),RDL status (in SA),Region,Cliffs,Forest,Woodland,Grassland,Savanna,Thicket,Fynbos,Karoo,Semi-arid,Namib desert,Wetland,Lagoons,Open coast,Marine,Agricultural
+1,Common Ostrich,Struthio camelus,3,5,LC ,Southern Africa,0,0,0,1,2,0,0,3,0,3,0,0,0,0,0
+187,Chukar Partridge,Alectoris chukar,3,5,LC,Southern Africa,0,0,0,0,2,0,3,0,0,0,0,0,2,0,2
+188,Coqui Francolin,Peliperdix coqui,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+189,Crested Francolin,Dendroperdix sephaena,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+190,Grey-winged Francolin,Scleroptila africanus,1,5,LC,Southern Africa,0,0,0,3,1,0,0,2,0,0,0,0,0,0,1
+192,Red-winged Francolin,Scleroptila levaillantii,3,5,LC,Southern Africa,0,0,0,3,0,0,2,0,0,0,0,0,0,0,1
+191,Shelleys Francolin,Scleroptila shelleyi,3,5,LC,Southern Africa,0,0,2,3,3,0,0,0,0,0,0,0,0,0,1
+193,Orange River Francolin,Scleroptila levaillantoides,3,5,LC,Southern Africa,0,0,0,2,3,0,0,0,0,1,0,0,0,0,1
+197,Hartlaubs Spurfowl,Pternistis hartlaubi,2,5,LC,Southern Africa,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0
+194,Red-billed Spurfowl,Pternistis adspersus,2,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,1,0,0,0,1
+195,Cape Spurfowl,Pternistis capensis,1,5,LC,Southern Africa,0,0,0,0,0,0,2,1,0,0,1,0,0,0,1
+196,Natal Spurfowl,Pternistis natalensis,2,5,LC,Southern Africa,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1
+198,Red-necked Spurfowl,Pternistis afer,3,5,LC,Southern Africa,0,1,2,0,0,0,2,0,0,0,2,0,0,0,1
+199,Swainsons Spurfowl,Pternistis swainsonii,2,5,LC,Southern Africa,0,0,2,0,2,0,0,0,0,0,0,0,0,0,1
+200,Common Quail,Coturnix coturnix,3,5,LC,Southern Africa,0,0,0,3,2,0,1,1,0,0,0,0,0,0,2
+201,Harlequin Quail,Coturnix delegorguei,3,5,LC,Southern Africa,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1
+202,Blue Quail,Coturnix adansonii,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+0,Common Peacock,Pavo cristatus,3,5,LC,Southern Africa,0,0,0,0,2,0,3,0,0,0,0,0,2,0,1
+204,Crested Guineafowl,Guttera edouardi,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+203,Helmeted Guineafowl,Numida meleagris,3,5,LC,Southern Africa,0,0,2,1,2,1,1,1,0,0,0,0,0,0,1
+100,Fulvous Duck,Dendrocygna bicolor,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+99,White-faced Duck,Dendrocygna viduata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+101,White-backed Duck,Thalassornis leuconotus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+117,Maccoa Duck,Oxyura maccoa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+102,Egyptian Goose,Alopochen aegyptiaca,3,5,LC,Southern Africa,0,0,0,0,0,0,1,1,0,0,3,0,1,0,2
+103,South African Shelduck,Tadorna cana,1,5,LC,Southern Africa,0,0,0,0,0,0,1,2,0,0,3,0,0,0,1
+116,Spur-winged Goose,Plectropterus gambensis,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
+115,Comb Duck,Sarkidiornis melanotos,3,5,LC,Southern Africa,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1
+114,African Pygmy-goose,Nettapus auritus,3,5,LC,Southern Africa,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0
+106,Cape Teal,Anas capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0
+105,African Black Duck,Anas sparsa,3,5,LC,Southern Africa,0,0,0,0,0,0,1 rivers,1 rivers,0,0,3 rivers,0,0,0,1 rivers
+0,Mallard,Anas platyrhynchos,3,5,LC,Southern Africa,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0
+104,Yellow-billed Duck,Anas undulata,3,5,LC,Southern Africa,0,0,0,1,0,0,1,0,0,0,3,0,0,0,1
+112,Cape Shoveler,Anas smithii,2,5,LC,Southern Africa,0,0,0,1,0,0,1,0,0,0,3,1,0,0,1
+111,Northern Shoveler,Anas clypeata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+108,Red-billed Teal,Anas erythrorhyncha,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+109,Northern Pintail,Anas acuta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+110,Garganey,Anas querquedula,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+107,Hottentot Teal,Anas hottentota,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+113,Southern Pochard,Netta erythrophthalma,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+205,Kurrichane Buttonquail,Turnix sylvaticus,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+0,Black-rumped Buttonquail,Turnix nanus,3,5,LC,Southern Africa,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1
+206,Hottentot Buttonquail,Turnix hottentottus,1,5,LC,Southern Africa,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+475,Scaly-throated Honeyguide,Indicator variegatus,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+474,Greater Honeyguide,Indicator indicator,3,5,LC,Southern Africa,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0
+476,Lesser Honeyguide,Indicator minor,3,5,LC,Southern Africa,0,1,2,0,3,0,0,0,0,0,0,0,0,0,1
+477,Pallid Honeyguide,c,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+479,Green-backed Honeybird,Prodotiscus zambesiae,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+478,Brown-backed Honeybird,Prodotiscus regulus,3,5,LC,Southern Africa,0,1,3,0,1,1,0,0,0,0,0,0,0,0,1
+489,Red-throated Wryneck,Jynx ruficollis,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+481,Bennetts Woodpecker,Campethera bennettii,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+482,Speckle-throated Woodpecker,Campethera scriptoricauda,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0
+483,Golden-tailed Woodpecker,Campethera abingoni,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+484,Knysna Woodpecker,Campethera notata,1,4,VU,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+485,Green-backed Woodpecker,Campethera cailliautii,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+480,Ground Woodpecker,Geocolaptes olivaceus,1,5,LC,Southern Africa,0,0,0,1,0,0,2,2,2,0,0,0,0,0,0
+486,Cardinal Woodpecker,Dendropicos fuscescens,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+487,Bearded Woodpecker,Dendropicos namaquus,3,5,LC,Southern Africa,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+488,Olive Woodpecker,Dendropicos griseocephalus,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+466,White-eared Barbet,Stactolaema leucotis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+467,Whytes Barbet,Stactolaema whytii,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+468,Green Barbet,Stactolaema olivacea,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,Green Tinkerbird,Pogoniulus simplex,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+471,Yellow-rumped Tinkerbird,Pogoniulus bilineatus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+470,Yellow-fronted Tinkerbird,Pogoniulus chrysoconus,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+469,Red-fronted Tinkerbird,Pogoniulus pusillus,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+465,Acacia Pied Barbet,Tricholaema leucomelas,2,5,LC,Southern Africa,0,0,1,0,3,1,1,2,0,0,0,0,0,0,1
+464,Black-collared Barbet,Lybius torquatus,3,5,LC,Southern Africa,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1
+473,Crested Barbet,Trachyphonus vaillantii,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+462,Monteiros Hornbill,Tockus monteiri,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,1,1,0,0,0,0,1
+458,Red-billed Hornbill,Tockus erythrorhynchus,2,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+0,Damara Hornbill,Tockus damarensis,1,5,LC,Southern Africa,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0
+459,Southern Yellow-billed Hornbill,Tockus leucomelas,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+460,Crowned Hornbill,Tockus alboterminatus,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+461,Bradfields Hornbill,Tockus bradfieldi,2,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+457,African Grey Hornbill,Tockus nasutus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+455,Trumpeter Hornbill,Bycanistes bucinator,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+456,Silvery-cheeked Hornbill,Bycanistes brevis,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+463,Southern Ground-Hornbill,Bucorvus leadbeateri,3,5,LC,Southern Africa,0,1,1,2,3,0,0,0,0,0,0,0,0,0,1
+451,African Hoopoe,Upupa africana,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,2
+452,Green Wood-Hoopoe,Phoeniculus purpureus,3,5,LC,Southern Africa,0,1,1,0,3,1,0,0,0,0,0,0,0,0,1
+453,Violet Wood-Hoopoe,Phoeniculus damarensis,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+454,Common Scimitarbill,Rhinopomastus cyanomelas,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+427,Narina Trogon,Apaloderma narina,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2
+446,European Roller,Coracias garrulus,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+447,Lilac-breasted Roller,Coracias caudatus,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+448,Racket-tailed Roller,Coracias spatulatus,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+449,Purple Roller,Coracias naevius,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,1,0,0,0,0,0
+450,Broad-billed Roller,Eurystomus glaucurus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+430,Half-collared Kingfisher,Alcedo semitorquata,3,5,LC,Southern Africa,0,2,2,0,0,0,0,0,0,0,3,0,0,0,1
+431,Malachite Kingfisher,Alcedo cristata,3,5,LC,Southern Africa,0,1,1,0,0,0,0,0,0,0,3,0,1,1,1
+432,African Pygmy-Kingfisher,Ispidina picta,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+436,Grey-headed Kingfisher,Halcyon leucocephala,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+433,Woodland Kingfisher,Halcyon senegalensis,3,5,LC,Southern Africa,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
+434,Mangrove Kingfisher,Halcyon senegaloides,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1
+435,Brown-hooded Kingfisher,Halcyon albiventris,3,5,LC,Southern Africa,0,1,3,0,1,1,0,0,0,0,0,0,0,0,1
+437,Striped Kingfisher,Halcyon chelicuti,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+429,Giant Kingfisher,Megaceryle maximus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1
+428,Pied Kingfisher,Ceryle rudis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1
+443,White-fronted Bee-eater,Merops bullockoides,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+444,Little Bee-eater,Merops pusillus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,1,0,0,0,1
+445,Swallow-tailed Bee-eater,Merops hirundineus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,1,0,0,0,0,1
+917,White-throated Bee-eater,Merops albicollis,3,5,LC,Southern Africa,0,1,1,0,2,0,1,0,0,0,0,0,0,0,0
+442,Bohms Bee-eater,Merops boehmi,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+440,Blue-cheeked Bee-eater,Merops persicus,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1
+439,Madagascar Bee-eater,Merops superciliosus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,1,0,0,0,0
+438,European Bee-eater,Merops apiaster,3,5,LC,Southern Africa,0,0,0,0,1,0,3,1,0,0,0,0,0,0,1
+441,Southern Carmine Bee-eater,Merops nubicoides,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+425,White-backed Mousebird,Colius colius,1,5,LC,Southern Africa,0,0,0,0,3,0,0,1,0,0,0,0,0,0,2
+424,Speckled Mousebird,Colius striatus,3,5,LC,Southern Africa,0,2,2,0,0,1,0,1,0,0,0,0,0,0,2
+426,Red-faced Mousebird,Urocolius indicus,3,5,LC,Southern Africa,0,0,1,0,3,1,1,1,1,0,0,0,0,0,2
+382,Jacobin Cuckoo,Clamator jacobinus,3,5,LC,Southern Africa,0,0,1,0,3,1,0,0,0,0,0,0,0,0,1
+381,Levaillants Cuckoo,Clamator levaillantii,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+380,Great Spotted Cuckoo,Clamator glandarius,3,5,LC,Southern Africa,0,0,1,0,3,1,0,0,0,0,0,0,0,0,1
+383,Thick-billed Cuckoo,Pachycoccyx audeberti,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+377,Red-chested Cuckoo,Cuculus solitarius,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+378,Black Cuckoo,Cuculus clamosus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+374,Common Cuckoo,Cuculus canorus,3,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,1
+375,African Cuckoo,Cuculus gularis,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+376,Lesser Cuckoo,Cuculus poliocephalus,3,5,LC,Southern Africa,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0
+0,Madagascar Cuckoo,Cuculus rochii,3,5,LC,Southern Africa,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0
+379,Barred Long-tailed Cuckoo,Cercococcyx montanus,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+385,Klaass Cuckoo,Chrysococcyx klaas,3,5,LC,Southern Africa,0,0,3,0,1,1,0,0,0,0,0,0,0,0,1
+384,African Emerald Cuckoo,Chrysococcyx cupreus,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+386,Diderick Cuckoo,Chrysococcyx caprius,3,5,LC,Southern Africa,0,0,1,0,3,1,1,1,0,0,0,0,0,0,1
+387,Green Malkoha,Ceuthmochares aereus,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,Black Coucal,Centropus grillii,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+389,Coppery-tailed Coucal,Centropus cupreicaudus,3,5,LC,Southern Africa,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0
+390,Senegal Coucal,Centropus senegalensis,3,5,LC,Southern Africa,0,1,1,1,1,0,0,0,0,0,3,0,0,0,1
+0,White-browed Coucal,Centropus superciliosus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+391,Burchells Coucal,Centropus burchellii,1,5,LC,Southern Africa,0,1,1,1,1,1,1,0,0,0,2,0,0,0,1
+362,Cape Parrot,Poicephalus robustus,1,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,Grey-headed Parrot,Poicephalus fuscicollis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+364,Meyers Parrot,Poicephalus meyeri,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+363,Brown-headed Parrot,Poicephalus cryptoxanthus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+365,Ruppells Parrot,Poicephalus rueppellii,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+367,Rosy-faced Lovebird,Agapornis roseicollis,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,2,0,0,0,0,2
+368,Lilians Lovebird,Agapornis lilianae,3,4,VU,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,2
+369,Black-cheeked Lovebird,Agapornis nigrigenis,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1
+366,Rose-ringed Parakeet,Psittacula krameri,3,5,LC,Southern Africa,0,1,2,0,2,0,0,0,0,0,0,0,0,0,2
+420,Scarce Swift,Schoutedenapus myoptilus,3,5,LC,Southern Africa,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+422,Mottled Spinetail,Telacanthura ussheri,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+423,Bohms Spinetail,Neafrapus boehmi,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+421,African Palm-Swift,Cypsiurus parvus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,2
+418,Alpine Swift,Tachymarptis melba,3,5,LC,Southern Africa,3,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+419,Mottled Swift,Tachymarptis aequatorialis,3,5,LC,Southern Africa,3,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+411,Common Swift,Apus apus,3,5,LC,Southern Africa,0,0,0,0,2,1,1,1,1,1,1,0,0,0,1
+414,Pallid Swift,Apus pallidus,3,5,LC,Southern Africa,3,x,x,x,x,x,x,x,x,x,x,0,1,x,x
+412,African Black Swift,Apus barbatus,3,5,LC,Southern Africa,3,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+413,Bradfields Swift,Apus bradfieldi,2,5,LC,Southern Africa,3,0,0,0,1,0,0,1,2,2,0,0,0,0,1
+417,Little Swift,Apus affinis,3,5,LC,Southern Africa,2,0,1,1,2,1,1,1,1,0,1,0,0,0,1
+416,Horus Swift,Apus horus,3,5,LC,Southern Africa,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+415,White-rumped Swift,Apus caffer,3,5,LC,Southern Africa,0,1,1,1,1,1,1,1,1,x,1,0,x,0,1
+0,Schalows Turaco,Tauraco schalowi,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+0,Livingstones Turaco,Tauraco livingstonii,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+370,Knysna Turaco,Tauraco corythaix,1,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+372,Rosss Turaco,Musophaga rossae,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+371,Purple-crested Turaco,Gallirex porphyreolophus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,2
+373,Grey Go-away-bird,Corythaixoides concolor,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+392,Barn Owl,Tyto alba,3,5,LC,Southern Africa,2,1,1,0,3,1,0,0,1,1,0,0,0,0,2
+393,African Grass-Owl,Tyto capensis,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1
+396,African Scops-Owl,Otus senegalensis,3,5,LC,Southern Africa,0,0,1,0,3,2,0,0,0,0,0,0,0,0,x
+397,Southern White-faced Scops-Owl,Ptilopsis granti,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+400,Cape Eagle-Owl,Bubo capensis,3,5,LC,Southern Africa,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401,Spotted Eagle-Owl,Bubo africanus,3,5,LC,Southern Africa,2,1,1,1,3,1,1,1,1,1,0,0,0,0,1
+402,Verreauxs Eagle-Owl,Bubo lacteus,3,5,LC,Southern Africa,0,0,2,1,3,0,0,0,0,0,0,0,0,0,1
+403,Pels Fishing-Owl,Scotopelia peli,3,5,LC,Southern Africa,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0
+394,African Wood-Owl,Strix woodfordii,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+398,Pearl-spotted Owlet,Glaucidium perlatum,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+399,African Barred Owlet,Glaucidium capense,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+395,Marsh Owl,Asio capensis,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0
+405,Fiery-necked Nightjar,Caprimulgus pectoralis,3,5,LC,Southern Africa,0,0,3,0,2,1,1,1,0,0,0,0,0,0,2
+408,Freckled Nightjar,Caprimulgus tristigma,3,5,LC,Southern Africa,0,0,1,0,1,0,0,1,3,0,0,0,0,0,2
+407,Swamp Nightjar,Caprimulgus natalensis,3,5,LC,Southern Africa,0,0,0,2,1,0,0,0,0,0,3,0,0,0,1
+409,Square-tailed Nightjar,Caprimulgus fossii,3,5,LC,Southern Africa,0,0,2,0,2,0,0,0,0,0,3,0,1,0,0
+406,Rufous-cheeked Nightjar,Caprimulgus rufigena,3,5,LC,Southern Africa,0,0,2,0,3,0,0,1,1,1,0,0,0,0,1
+404,European Nightjar,Caprimulgus europaeus,3,5,LC,Southern Africa,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2
+410,Pennant-winged Nightjar,Macrodipteryx vexillarius,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+348,Rock Dove,Columba livia,3,5,LC,Southern Africa,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+349,Speckled Pigeon,Columba guinea,3,5,LC,Southern Africa,3,0,0,0,1,1,1,1,3,0,0,0,0,0,3
+350,African Olive-Pigeon,Columba arquatrix,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,2
+351,Eastern Bronze-naped Pigeon,Columba delegorguei,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,Lemon Dove,Aplopelia larvata,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+919,European Turtle-Dove,Streptopelia turtur,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+355,Laughing Dove,Streptopelia senegalensis,3,5,LC,Southern Africa,0,0,2,0,3,0,0,1,0,0,0,0,0,0,3
+353,African Mourning Dove,Streptopelia decipiens,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+354,Cape Turtle-Dove,Streptopelia capicola,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3
+352,Red-eyed Dove,Streptopelia semitorquata,3,5,LC,Southern Africa,0,1,3,0,1,1,0,1,0,0,0,0,0,0,2
+358,Emerald-spotted Wood-Dove,Turtur chalcospilos,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+357,Blue-spotted Wood-Dove,Turtur afer,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+359,Tambourine Dove,Turtur tympanistria,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+356,Namaqua Dove,Oena capensis,3,5,LC,Southern Africa,0,0,0,0,3,1,1,2,1,1,0,0,0,0,2
+361,African Green-Pigeon,Treron calvus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+231,Denhams Bustard,Neotis denhami,3,4,VU,Southern Africa,0,0,0,3,1,0,1,0,0,0,0,0,0,0,2
+232,Ludwigs Bustard,Neotis ludwigii,2,5,LC,Southern Africa,0,0,0,1,1,0,1,3,1,1,0,0,0,0,1
+230,Kori Bustard,Ardeotis kori,3,5,LC,Southern Africa,0,0,1,1,3,0,0,1,0,0,0,0,0,0,1
+237,Red-crested Korhaan,Lophotis ruficrista,2,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+239,Southern Black Korhaan,Afrotis afra,1,5,LC,Southern Africa,0,0,0,1,2,0,3 renoster,3,0,0,0,0,0,0,1
+0,Northern Black Korhaan,Afrotis afraoides,1,5,LC,Southern Africa,0,0,0,2,3,0,0,2,0,1,0,0,0,0,2
+236,Ruppells Korhaan,Eupodotis rueppellii,2,5,LC,Southern Africa,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0
+235,Karoo Korhaan,Eupodotis vigorsii,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2
+234,Blue Korhaan,Eupodotis caerulescens,1,4,VU,Southern Africa,0,0,0,3,0,0,0,1,0,0,0,0,0,0,1
+233,White-bellied Korhaan,Eupodotis senegalensis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+238,Black-bellied Bustard,Lissotis melanogaster,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+209,Grey Crowned Crane,Balearica regulorum,3,5,LC,Southern Africa,0,0,0,2,1,0,0,0,0,0,3,0,0,0,1
+208,Blue Crane,Anthropoides paradiseus,1,5,LC,Southern Africa,0,0,0,3,0,0,0,2,0,0,1,0,0,0,2
+207,Wattled Crane,Bugeranus carunculatus,3,3,VU,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,1
+229,African Finfoot,Podica senegalensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+218,Buff-spotted Flufftail,Sarothrura elegans,3,5,LC,Southern Africa,0,3,0,0,0,1,0,0,0,0,1,0,0,0,1
+217,Red-chested Flufftail,Sarothrura rufa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+219,Streaky-breasted Flufftail,Sarothrura boehmi,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+221,Striped Flufftail,Sarothrura affinis,3,5,LC,Southern Africa,0,0,0,3,0,0,1,0,0,0,1,0,0,0,1
+222,White-winged Flufftail,Sarothrura ayresi,3,2,EN ,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+210,African Rail,Rallus caerulescens,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+212,African Crake,Crecopsis egregia,3,5,LC,Southern Africa,0,0,0,1,3,0,0,0,0,0,1,0,0,0,2
+211,Corn Crake,Crex crex,3,4,VU,Southern Africa,0,0,0,1,3,0,0,0,0,0,1,0,0,0,0
+213,Black Crake,Amaurornis flavirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+215,Baillons Crake,Porzana pusilla,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+214,Spotted Crake,Porzana porzana,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+216,Striped Crake,Aenigmatolimnas marginalis,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+223,African Purple Swamphen,Porphyrio madagascariensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+224,Allens Gallinule,Porphyrio alleni,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+225,American Purple Gallinule,Porphyrio martinicus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2
+226,Common Moorhen,Gallinula chloropus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+227,Lesser Moorhen,Gallinula angulata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+228,Red-knobbed Coot,Fulica cristata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+344,Namaqua Sandgrouse,Pterocles namaqua,2,5,LC,Southern Africa,0,0,0,1,3,0,0,2,1,2,0,0,0,0,1
+346,Yellow-throated Sandgrouse,Pterocles gutturalis,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,1,0,0,0,1
+347,Double-banded Sandgrouse,Pterocles bicinctus,2,5,LC,Southern Africa,0,0,3,0,2,0,0,0,1,0,0,0,0,0,0
+345,Burchells Sandgrouse,Pterocles burchelli,2,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,1,0,0,0,0,0
+285,Great Snipe,Gallinago media,3,4,VU,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+286,African Snipe,Gallinago nigripennis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+287,Black-tailed Godwit,Limosa limosa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,1,1
+914,Hudsonian Godwit,Limosa haemastica,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,x,3,0,0
+288,Bar-tailed Godwit,Limosa lapponica,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,3,0,0
+290,Common Whimbrel,Numenius phaeopus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,2,2,3,0,0
+289,Eurasian Curlew,Numenius arquata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0
+267,Spotted Redshank,Tringa erythropus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0
+268,Common Redshank,Tringa totanus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,2,0,0
+269,Marsh Sandpiper,Tringa stagnatilis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0
+270,Common Greenshank,Tringa nebularia,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,2,0,0
+906,Greater Yellowlegs,Tringa melanoleuca,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,x,3,0,0
+902,Lesser Yellowlegs,Tringa flavipes,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,3,2,0,1
+265,Green Sandpiper,Tringa ochropus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+266,Wood Sandpiper,Tringa glareola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+263,Terek Sandpiper,Xenus cinereus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0
+264,Common Sandpiper,Actitis hypoleucos,3,5,LC,Southern Africa,0,0,1,0,0,0,0,0,0,0,3,2,0,0,1
+262,Ruddy Turnstone,Arenaria interpres,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0
+271,Red Knot,Calidris canutus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+0,Great Knot,Calidris tenuirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+281,Sanderling,Calidris alba,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+274,Little Stint,Calidris minuta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,1,0,1
+276,Red-necked Stint,Calidris ruficollis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1
+280,Temmincks Stint,Calidris temminckii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+275,Long-toed Stint,Calidris subminuta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+278,Bairds Sandpiper,Calidris bairdii,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,1,1,0,0
+277,White-rumped Sandpiper,Calidris fuscicollis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+279,Pectoral Sandpiper,Calidris melanotos,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+273,Dunlin,Calidris alpina,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+272,Curlew Sandpiper,Calidris ferruginea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1
+282,Buff-breasted Sandpiper,Tryngites subruficollis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,1,0,0,0
+283,Broad-billed Sandpiper,Limicola falcinellus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+284,Ruff,Philomachus pugnax,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,1,0,1
+293,Wilsons Phalarope,Steganopus tricolor,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,saltpans,0,0
+292,Red-necked Phalarope,Phalaropus lobatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,saltpans,1,0
+291,Red Phalarope,Phalaropus fulicaria,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,0,saltpans,3,0
+242,Greater Painted-snipe,Rostratula benghalensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+240,African Jacana,Actophilornis africanus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2
+241,Lesser Jacana,Microparra capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+912,Greater Sheathbill,Chionis albus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+298,Water Thick-knee,Burhinus vermiculatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0
+297,Spotted Thick-knee,Burhinus capensis,3,5,LC,Southern Africa,0,0,1,2,3,0,0,2,2,0,0,0,1,0,2
+243,Eurasian Oystercatcher,Haematopus ostralegus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+244,African Black Oystercatcher,Haematopus moquini,2,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+295,Black-winged Stilt,Himantopus himantopus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+294,Pied Avocet,Recurvirostra avosetta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+253,Pacific Golden Plover,Pluvialis fulva,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,3,1,0,0
+0,American Golden Plover,Pluvialis dominica,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,1,2,1,0,0
+254,Grey Plover,Pluvialis squatarola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+245,Common Ringed Plover,Charadrius hiaticula,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+0,Little Ringed Plover,Charadrius dubius,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0
+248,Kittlitzs Plover,Charadrius pecuarius,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,3,3,0,1
+249,Three-banded Plover,Charadrius tricollaris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,1,0,1
+247,Chestnut-banded Plover,Charadrius pallidus,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0
+908,Kentish Plover,Charadrius alexandrinus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+246,White-fronted Plover,Charadrius marginatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+250,Lesser Sand Plover,Charadrius mongolus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+251,Greater Sand Plover,Charadrius leschenaultii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+252,Caspian Plover,Charadrius asiaticus,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,1,1,0,0,0,1
+261,Long-toed Lapwing,Vanellus crassirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+258,Blacksmith Lapwing,Vanellus armatus,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,1,0,0,2
+920,Spur-winged Lapwing,Vanellus spinosus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0
+259,White-crowned Lapwing,Vanellus albiceps,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+260,African Wattled Lapwing,Vanellus senegallus,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,2
+256,Senegal Lapwing,Vanellus lugubris,3,5,LC,Southern Africa,0,0,1,3,1,0,0,0,0,0,1,0,0,0,2
+257,Black-winged Lapwing,Vanellus melanopterus,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1
+255,Crowned Lapwing,Vanellus coronatus,3,5,LC,Southern Africa,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1
+296,Crab Plover,Dromas ardeola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+301,Double-banded Courser,Rhinoptilus africanus,3,5,LC,Southern Africa,0,0,0,3,2,0,0,2,0,1,0,0,0,0,1
+303,Bronze-winged Courser,Rhinoptilus chalcopterus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+302,Three-banded Courser,Rhinoptilus cinctus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+299,Burchells Courser,Cursorius rufus,2,5,LC,Southern Africa,0,0,0,3,1,0,0,1,0,1,0,0,0,0,1
+300,Temmincks Courser,Cursorius temminckii,3,5,LC,Southern Africa,0,0,3,2,3,0,0,1,0,0,0,0,0,0,1
+304,Collared Pratincole,Glareola pratincola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1
+305,Black-winged Pratincole,Glareola nordmanni,3,5,NT,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+306,Rock Pratincole,Glareola nuchalis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+310,Subantarctic Skua,Catharacta antarctica,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+311,South Polar Skua,Catharacta maccormicki,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+309,Pomarine Jaeger,Stercorarius pomarinus,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0
+307,Parasitic Jaeger,Stercorarius parasiticus,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0
+308,Long-tailed Jaeger,Stercorarius longicaudus,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+343,African Skimmer,Rynchops flavirostris,3,4,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+312,Kelp Gull,Larus dominicanus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,2,3,3,0,0
+313,Lesser Black-backed Gull,Larus fuscus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+0,Heuglins Gull,Larus heuglini,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+315,Grey-headed Gull,Larus cirrocephalus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,1
+316,Hartlaubs Gull,Larus hartlaubii,1,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,2
+319,Common Black-headed Gull,Larus ridibundus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+0,Slender-billed Gull,Larus genei,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+317,Franklins Gull,Larus pipixcan,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+318,Sabines Gull,Larus sabini,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+320,Black-legged Kittiwake,Rissa tridactyla,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+321,Gull-billed Tern,Sterna nilotica,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1
+322,Caspian Tern,Sterna caspia,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0
+323,Royal Tern,Sterna maxima,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0
+325,Lesser Crested Tern,Sterna bengalensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+324,Swift Tern,Sterna bergii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+326,Sandwich Tern,Sterna sandvicensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+330,Roseate Tern,Sterna dougallii,3,5,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0
+331,Black-naped Tern,Sterna sumatrana,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+327,Common Tern,Sterna hirundo,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,1,0
+328,Arctic Tern,Sterna paradisaea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+329,Antarctic Tern,Sterna vittata,3,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0
+335,Little Tern,Sterna albifrons,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+334,Damara Tern,Sterna balaenarum,3,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+336,White-cheeked Tern,Sterna repressa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+333,Bridled Tern,Sterna anaethetus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+332,Sooty Tern,Sterna fuscata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+338,Whiskered Tern,Chlidonias hybrida,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2
+339,White-winged Tern,Chlidonias leucopterus,3,5,LC,Southern Africa,0,0,0,2,0,0,0,0,0,0,3,2,0,0,2
+337,Black Tern,Chlidonias niger,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0
+340,Brown Noddy,Anous stolidus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+341,Lesser Noddy,Anous tenuirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+170,Osprey,Pandion haliaetus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0
+128,African Cuckoo Hawk,Aviceda cuculoides,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,2
+130,European Honey-Buzzard,Pernis apivorus,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,3
+129,Bat Hawk,Macheiramphus alcinus,3,5,NT,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+127,Black-shouldered Kite,Elanus caeruleus,3,5,LC,Southern Africa,0,0,0,3,3,0,2,1,0,0,0,0,0,0,3
+126,Black Kite,Milvus [migrans] migrans,3,5,LC,Southern Africa,0,0,2,0,2,0,1,1,0,0,0,0,0,0,3
+148,African Fish-Eagle,Haliaeetus vocifer,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,3
+147,Palm-nut Vulture,Gypohierax angolensis,3,5,LC,Southern Africa,0,0,0,0,palm svanna,0,0,0,0,0,3,1,0,0,0
+119,Bearded Vulture,Gypaetus barbatus,3,5,EN -S Afr,Southern Africa,3,0,0,3 alpine,0,0,0,0,0,0,0,0,0,0,0
+120,Egyptian Vulture,Neophron percnopterus,3,5,EN -S Afr,Southern Africa,3,0,0,0,1,0,0,0,2,0,0,0,1,0,0
+121,Hooded Vulture,Necrosyrtes monachus,3,5,VU,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+123,White-backed Vulture,Gyps africanus,3,5,VU,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+0,Ruppells Vulture,Gyps rueppellii,3,5,LC,Southern Africa,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Cape Vulture,Gyps coprotheres,2,3,VU,Southern Africa,3,0,1,2,2,0,0,0,0,0,0,0,0,0,0
+124,Lappet-faced Vulture,Aegypius tracheliotus,3,3,VU,Southern Africa,0,0,1,0,3,0,0,0,0,2,0,0,0,0,0
+125,White-headed Vulture,Aegypius occipitalis,3,5,VU,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0
+143,Black-chested Snake-Eagle,Circaetus pectoralis,3,5,LC,Southern Africa,0,0,1,1,3,0,0,0,0,1,0,0,0,0,0
+142,Brown Snake-Eagle,Circaetus cinereus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+144,Southern Banded Snake-Eagle,Circaetus fasciolatus,3,4,VU,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+145,Western Banded Snake-Eagle,Circaetus cinerascens,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+146,Bateleur,Terathopius ecaudatus,3,5,VU,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+164,Western Marsh-Harrier,Circus aeruginosus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+165,African Marsh-Harrier,Circus ranivorus,3,5,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+168,Black Harrier,Circus maurus,1,5,VU,Southern Africa,0,0,0,1,0,0,3,2,0,0,0,0,0,0,1
+167,Pallid Harrier,Circus macrourus,3,4,NT,Southern Africa,0,0,0,3,0,0,0,0,0,0,2,0,0,0,1
+166,Montagus Harrier,Circus pygargus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0
+169,African Harrier-Hawk,Polyboroides typus,3,5,LC,Southern Africa,1,1,2,0,2,0,0,1,1,0,1,0,0,0,1
+154,Lizard Buzzard,Kaupifalco monogrammicus,3,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0
+163,Dark Chanting Goshawk,Melierax metabates,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+162,Southern Pale Chanting Goshawk,Melierax canorus,2,5,LC,Southern Africa,0,0,0,0,3,0,0,3,0,1,0,0,0,0,0
+161,Gabar Goshawk,Melierax gabar,3,5,LC,Southern Africa,0,0,3,0,3,0,0,1,0,1,0,0,0,0,1
+160,African Goshawk,Accipiter tachiro,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2
+159,Shikra,Accipiter badius,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+157,Little Sparrowhawk,Accipiter minullus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,2
+156,Ovambo Sparrowhawk,Accipiter ovampensis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2
+155,Rufous-chested Sparrowhawk,Accipiter rufiventris,3,5,LC,Southern Africa,0,3,1,0,0,0,1,1,0,0,0,0,0,0,2
+158,Black Sparrowhawk,Accipiter melanoleucus,3,5,LC,Southern Africa,0,3,3,1,0,0,0,0,0,0,0,0,0,0,2
+149,Steppe Buzzard,Buteo vulpinus,3,5,LC,Southern Africa,0,1,1,1,3,0,1,0,0,0,0,0,0,0,3
+150,Forest Buzzard,Buteo trizonatus,1,5,LC,Southern Africa,0,3,1,0,0,0,1,0,0,0,0,0,0,0,3
+151,Long-legged Buzzard,Buteo rufinus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0
+153,Augur Buzzard,Buteo augur,3,5,LC,Southern Africa,3,1,2,1,1,0,0,0,1,0,0,0,0,0,0
+152,Jackal Buzzard,Buteo rufofuscus,1,5,LC,Southern Africa,3,0,0,2,2,1,2,2,0,0,0,0,0,0,0
+133,Steppe Eagle,Aquila nipalensis,3,5,LC,Southern Africa,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0
+132,Tawny Eagle,Aquila rapax,3,5,EN -Namibia,Southern Africa,0,0,1,1,3,0,0,1,0,1,0,0,0,0,0
+134,Lesser Spotted Eagle,Aquila pomarina,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+131,Verreauxs Eagle,Aquila verreauxii,3,5,NT Namibia,Southern Africa,3,0,0,0,0,0,0,1,3,0,0,0,0,0,0
+137,African Hawk-Eagle,Aquila spilogaster,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,1,0,0,0,0,2
+138,Ayress Hawk-Eagle,Aquila ayresii,3,5,NT,Southern Africa,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1
+136,Booted Eagle,Aquila pennatus,3,5,LC,Southern Africa,3,0,1,0,1,0,0,3,0,1,0,0,0,0,1
+135,Wahlbergs Eagle,Aquila wahlbergi,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+140,Martial Eagle,Polemaetus bellicosus,3,5,VU,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+139,Long-crested Eagle,Lophaetus occipitalis,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,2
+141,African Crowned Eagle,Stephanoaetus coronatus,3,5,NT,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+118,Secretarybird,Sagittarius serpentarius,3,5,LC,Southern Africa,0,0,0,3,3,0,0,0,0,0,0,0,0,0,1
+186,Pygmy Falcon,Polihierax semitorquatus,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1
+183,Lesser Kestrel,Falco naumanni,3,3,VU,Southern Africa,0,0,0,2,2,0,0,3,0,0,0,0,0,0,2
+181,Rock Kestrel,Falco rupicolus,3,5,LC,Southern Africa,3,0,1,1,2,0,0,3,0,1,0,0,0,0,1
+182,Greater Kestrel,Falco rupicoloides,3,5,LC,Southern Africa,0,0,0,2,3,0,0,2,0,1,0,0,0,0,1
+184,Grey Kestrel,Falco ardosiaceus,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+185,Dickinsons Kestrel,Falco dickinsoni,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+178,Red-necked Falcon,Falco chicquera,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,2,1,0,0,0,0
+179,Red-footed Falcon,Falco vespertinus,3,5,LC,Southern Africa,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1
+180,Amur Falcon,Falco amurensis,3,5,LC,Southern Africa,0,0,0,3,3,0,0,2,0,0,0,0,0,0,1
+177,Eleonoras Falcon,Falco eleonorae,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1
+175,Sooty Falcon,Falco concolor,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,1,0,0,0,0
+173,Eurasian Hobby,Falco subbuteo,3,5,LC,Southern Africa,0,1,3,0,0,0,1,0,0,0,0,0,0,0,1
+174,African Hobby,Falco cuvierii,3,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,2
+172,Lanner Falcon,Falco biarmicus,3,5,NT,Southern Africa,1,0,1,3,3,0,0,1,1,1,0,0,0,0,2
+171,Peregrine Falcon,Falco peregrinus,3,5,NT,Southern Africa,3,1,1,0,1,0,0,0,0,0,0,0,0,0,2
+176,Taita Falcon,Falco fasciinucha,3,4,NT,Southern Africa,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+8,Little Grebe,Tachybaptus ruficollis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,3
+6,Great Crested Grebe,Podiceps cristatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,3
+7,Black-necked Grebe,Podiceps nigricollis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,1,3
+910,Red-billed Tropicbird,Phaethon aethereus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+47,Red-tailed Tropicbird,Phaethon rubricauda,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+48,White-tailed Tropicbird,Phaethon lepturus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+53,Cape Gannet,Morus capensis,2,3,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+54,Australian Gannet,Morus serrator,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Red-footed Booby,Sula sula,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+52,Brown Booby,Sula leucogaster,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+60,African Darter,Anhinga rufa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0
+58,Reed Cormorant,Phalacrocorax africanus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,1,0,1
+59,Crowned Cormorant,Phalacrocorax coronatus,1,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+55,White-breasted Cormorant,Phalacrocorax lucidus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,3,0,2
+57,Bank Cormorant,Phalacrocorax neglectus,1,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+56,Cape Cormorant,Phalacrocorax capensis,2,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,3,3,0
+70,Slaty Egret,Egretta vinaceigula,2,3,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+69,Black Heron,Egretta ardesiaca,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1
+67,Little Egret,Egretta garzetta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,2,0,1
+0,Little Blue Heron,Egretta caerulea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+68,Yellow-billed Egret,Egretta intermedia,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,3,0,0,1
+66,Great Egret,Egretta alba,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,1,0,1
+0,Western Reef Heron,Egretta gularis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+0,Snowy Egret,Egretta thula,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+62,Grey Heron,Ardea cinerea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+63,Black-headed Heron,Ardea melanocephala,3,5,LC,Southern Africa,0,0,0,3,2,0,0,0,0,0,1,0,0,0,2
+64,Goliath Heron,Ardea goliath,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+65,Purple Heron,Ardea purpurea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+71,Cattle Egret,Bubulcus ibis,3,5,LC,Southern Africa,0,0,0,3,2,0,0,0,0,0,1,0,0,0,3
+72,Squacco Heron,Ardeola ralloides,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+73,Malagasy Pond-Heron,Ardeola idae,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+75,Rufous-bellied Heron,Ardeola rufiventris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+74,Green-backed Heron,Butorides striata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+76,Black-crowned Night-Heron,Nycticorax nycticorax,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+77,White-backed Night-Heron,Gorsachius leuconotus,3,5,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+78,Little Bittern,Ixobrychus minutus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+79,Dwarf Bittern,Ixobrychus sturmii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+80,Eurasian Bittern,Botaurus stellaris,3,5,CR,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+81,Hamerkop,Scopus umbretta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0
+96,Greater Flamingo,Phoenicopterus ruber,3,5,"NT S Afr, VU Namibia",Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+97,Lesser Flamingo,Phoenicopterus minor,3,4,"NT S Afr, VU Namibia",Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+93,Glossy Ibis,Plegadis falcinellus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+94,Hadeda Ibis,Bostrychia hagedash,3,5,LC,Southern Africa,0,1,3,1,1,1,1,1,0,0,3,0,0,0,2
+92,Southern Bald Ibis,Geronticus calvus,1,3,VU,Southern Africa,2,0,0,3,0,0,0,0,0,0,2,0,0,0,1
+91,African Sacred Ibis,Threskiornis aethiopicus,3,5,LC,Southern Africa,0,0,0,2,0,0,0,0,0,0,3,2,0,0,2
+95,African Spoonbill,Platalea alba,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2
+49,Great White Pelican,Pelecanus onocrotalus,3,5,NT S Afr ,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1
+50,Pink-backed Pelican,Pelecanus rufescens,3,5,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0
+90,Yellow-billed Stork,Mycteria ibis,3,5,NT S Afr ,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+87,African Openbill,Anastomus lamelligerus,3,5,NT S Afr ,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+84,Black Stork,Ciconia nigra,3,5,"NT S Afr, EN Namibia",Southern Africa,2,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+85,Abdims Stork,Ciconia abdimii,3,5,LC,Southern Africa,0,0,0,3,3,0,0,1,0,0,1,0,0,0,3
+86,Woolly-necked Stork,Ciconia episcopus,3,5,NT S Afr ,Southern Africa,0,3,3,0,0,0,0,0,0,0,3,1,0,0,1
+83,White Stork,Ciconia ciconia,3,5,LC,Southern Africa,0,0,0,3,3,0,0,1,0,0,1,0,0,0,3
+88,Saddle-billed Stork,Ephippiorhynchus senegalensis,3,5,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+89,Marabou Stork,Leptoptilos crumeniferus,3,5,NT S Afr ,Southern Africa,0,0,0,0,3,0,0,0,0,0,3,0,0,0,1
+61,Greater Frigatebird,Fregata minor,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+0,Lesser Frigatebird,Fregata ariel,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+2,King Penguin,Aptenodytes patagonicus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+0,Gentoo Penguin,Pygoscelis papua,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+5,Macaroni Penguin,Eudyptes chrysolophus,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+4,Rockhopper Penguin,Eudyptes chrysocome,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+3,African Penguin,Spheniscus demersus,2,3,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+0,Magellanic Penguin,Spheniscus magellanicus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+44,Wilsons Storm-Petrel,Oceanites oceanicus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,White-faced Storm-Petrel,Pelagodroma marina,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+46,Black-bellied Storm-Petrel,Fregetta tropica,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+45,White-bellied Storm-Petrel,Fregetta grallaria,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+42,European Storm-Petrel,Hydrobates pelagicus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+43,Leachs Storm-Petrel,Oceanodroma leucorhoa,3,5,EN s Afr,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+918,Matsudairas Storm-Petrel,Oceanodroma matsudairae,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+10,Wandering Albatross,Diomedea exulans,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Tristan Albatross,Diomedea dabbenena,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+9,Southern Royal Albatross,Diomedea epomophora,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Northern Royal Albatross,Diomedea sanfordi,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+905,Laysan Albatross,Phoebastria immutabilis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+11,Shy Albatross,Thalassarche cauta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Salvins Albatross,Thalassarche salvini,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Chatham Albatross,Thalassarche eremita,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Bullers Albatross,Thalassarche bulleri,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+12,Black-browed Albatross,Thalassarche melanophrys,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+13,Grey-headed Albatross,Thalassarche chrysostoma,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+14,Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Indian Yellow-nosed Albatross,Thalassarche carteri,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+15,Sooty Albatross,Phoebetria fusca,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+16,Light-mantled Albatross,Phoebetria palpebrata,3,4,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+17,Southern Giant-Petrel,Macronectes giganteus,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+18,Northern Giant-Petrel,Macronectes halli,3,4,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+19,Southern Fulmar,Fulmarus glacialoides,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+20,Antarctic Petrel,Thalassoica antarctica,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+21,Pintado Petrel,Daption capense,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+23,Great-winged Petrel,Pterodroma macroptera,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+25,White-headed Petrel,Pterodroma lessonii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+26,Atlantic Petrel,Pterodroma incerta,3,3,VU  ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Barau’s Petrel,Pterodroma baraui,3,2,EN ,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+24,Soft-plumaged Petrel,Pterodroma mollis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+27,Kerguelen Petrel,Lugensa brevirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+28,Blue Petrel,Halobaena caerulea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+29,Broad-billed Prion,Pachyptila vittata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Salvins Prion,Pachyptila salvini,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Antarctic Prion,Pachyptila desolata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+30,Slender-billed Prion,Pachyptila belcheri,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+31,Fairy Prion,Pachyptila turtur,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+22,Bulwers Petrel,Bulweria bulwerii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Jouanins Petrel,Bulweria fallax,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+32,White-chinned Petrel,Procellaria aequinoctialis,3,3,VU,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Spectacled Petrel,Procellaria conspicillata,3,1,CR,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+33,Grey Petrel,Procellaria cinerea,3,4,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+34,Corys Shearwater,Calonectris diomedea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Streaked Shearwater,Calonectris leucomelas,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+35,Great Shearwater,Puffinus gravis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+36,Flesh-footed Shearwater,Puffinus carneipes,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+37,Sooty Shearwater,Puffinus griseus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+41,Wedge-tailed Shearwater,Puffinus pacificus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+38,Manx Shearwater,Puffinus puffinus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,Balearic Shearwater,Puffinus mauretanicus,3,5,CR,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+40,Tropical Shearwater,Puffinus bailloni,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+39,Little Shearwater,Puffinus assimilis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+491,African Pitta,Pitta angolensis,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+490,African Broadbill,Smithornis capensis,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+543,Eurasian Golden Oriole,Oriolus oriolus,3,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,1
+544,African Golden Oriole,Oriolus auratus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1
+546,Green-headed Oriole,Oriolus chlorocephalus,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,Black-headed Oriole,Oriolus larvatus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,2
+542,Square-tailed Drongo,Dicrurus ludwigii,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+541,Fork-tailed Drongo,Dicrurus adsimilis,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+708,Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+710,African Paradise-Flycatcher,Terpsiphone viridis,3,5,LC,Southern Africa,0,2,3,0,1,0,0,0,0,0,0,0,0,0,2
+741,Brubru,Nilaus afer,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+740,Black-backed Puffback,Dryoscopus cubla,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+745,Anchietas Tchagra,Antichromus anchietae,3,5,LC,Southern Africa,0,1,0,1,0,0,0,0,0,0,3,0,0,0,1
+744,Black-crowned Tchagra,Tchagra senegalus,3,5,LC,Southern Africa,0,1,2,0,3,0,0,0,0,0,0,0,0,0,1
+743,Brown-crowned Tchagra,Tchagra australis,3,5,LC,Southern Africa,0,1,2,0,3,0,0,0,0,0,0,0,0,0,1
+742,Southern Tchagra,Tchagra tchagra,1,5,LC,Southern Africa,0,1,0,1,1,3,1,1,0,0,0,0,0,0,0
+737,Tropical Boubou,Laniarius aethiopicus,3,5,LC,Southern Africa,0,1,2,0,1,0,0,0,0,0,3,0,0,0,1
+738,Swamp Boubou,Laniarius bicolor,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+736,Southern Boubou,Laniarius ferrugineus,1,5,LC,Southern Africa,0,2,2,0,0,3,0,0,0,0,0,0,0,0,2
+739,Crimson-breasted Shrike,Laniarius atrococcineus,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+746,Bokmakierie,Telophorus zeylonus,2,5,LC,Southern Africa,0,0,0,3,0,1,3,3,1,0,0,0,0,0,2
+748,Orange-breasted Bush-Shrike,Telophorus sulfureopectus,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+750,Olive Bush-Shrike,Telophorus olivaceus,2,5,LC,Southern Africa,0,3,2,0,0,2,0,0,0,0,0,0,0,0,1
+749,Black-fronted Bush-Shrike,Telophorus nigrifrons,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,Gorgeous Bush-Shrike,Telophorus viridis,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+751,Grey-headed Bush-Shrike,Malaconotus blanchoti,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+753,White-crested Helmet-Shrike,Prionops plumatus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+754,Retzs Helmet-Shrike,Prionops retzii,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+755,Chestnut-fronted Helmet-Shrike,Prionops scopifrons,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+699,Black-and-white Flycatcher,Bias musicus,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+752,White-tailed Shrike,Lanioturdus torquatus,2,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,1,0,0,0,0,0
+700,Cape Batis,Batis capensis,3,5,LC,Southern Africa,0,3,2,0,1,1,0,0,0,0,0,0,0,0,1
+704,Woodwards Batis,Batis fratrum,2,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+701,Chinspot Batis,Batis molitor,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+702,Pale Batis,Batis soror,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+703,Pririt Batis,Batis pririt,2,5,LC,Southern Africa,0,0,0,0,3,0,0,1,0,1,0,0,0,0,1
+705,Black-throated Wattle-eye,Platysteira peltata,3,5,NT s Afr,Southern Africa,0,3,2,0,0,0,0,0,0,0,1,0,0,0,0
+549,House Crow,Corvus splendens,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+547,Cape Crow,Corvus capensis,3,5,LC,Southern Africa,0,0,0,1,3,1,1,2,0,1,0,0,0,0,2
+548,Pied Crow,Corvus albus,3,5,LC,Southern Africa,0,0,1,1,3,1,1,2,1,0,0,0,0,0,3
+550,White-necked Raven,Corvus albicollis,3,5,LC,Southern Africa,3,0,0,0,2,0,0,2,1,0,0,0,0,0,1
+733,Red-backed Shrike,Lanius collurio,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+734,Souzas Shrike,Lanius souzae,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+731,Lesser Grey Shrike,Lanius minor,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0
+732,Common Fiscal,Lanius collaris,3,5,LC,Southern Africa,0,0,3,0,3,1,1,1,0,0,0,0,0,0,3
+735,Magpie Shrike,Corvinella melanoleuca,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+756,Southern White-crowned Shrike,Eurocephalus anguitimens,2,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+539,White-breasted Cuckooshrike,Coracina pectoralis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+540,Grey Cuckooshrike,Coracina caesia,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1
+538,Black Cuckooshrike,Campephaga flava,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+611,Cape Rock-jumper,Chaetops frenatus,1,5,LC,Southern Africa,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+612,Drakensberg Rock-jumper,Chaetops aurantius,1,5,LC,Southern Africa,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0
+557,Cape Penduline-Tit,Anthoscopus minutus,2,5,LC,Southern Africa,0,0,0,0,1,0,1,3,0,1,0,0,0,0,0
+558,Grey Penduline-Tit,Anthoscopus caroli,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+554,Southern Black Tit,Parus niger,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+555,Carps Tit,Parus carpi,2,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+556,Rufous-bellied Tit,Parus rufiventris,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+553,Miombo Tit,Parus griseiventris,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+552,Ashy Tit,Parus cinerascens,2,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+551,Grey Tit,Parus afer,1,5,LC,Southern Africa,0,0,0,0,1,0,1,3,0,0,0,0,0,0,1
+532,Sand Martin,Riparia riparia,3,5,LC,Southern Africa,0,0,0,2,0,0,0,0,0,0,3,0,0,0,1
+533,Brown-throated Martin,Riparia paludicola,3,5,LC,Southern Africa,0,0,1,2,1,0,1,1,0,0,3,1,0,0,1
+534,Banded Martin,Riparia cincta,3,5,LC,Southern Africa,0,0,0,3,0,0,1,1,0,0,3,1,1,0,1
+535,Mascarene Martin,Phedina borbonica,3,5,LC,Southern Africa,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+531,Grey-rumped Swallow,Pseudhirundo griseopyga,3,5,LC,Southern Africa,0,0,1,3,1,0,0,0,0,0,2,0,0,0,0
+518,Barn Swallow,Hirundo rustica,3,5,LC,Southern Africa,0,0,1,3,2,1,1,1,0,0,3,1,0,0,2
+519,Angola Swallow,Hirundo angolensis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+520,White-throated Swallow,Hirundo albigularis,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,1,0,0,1
+522,Wire-tailed Swallow,Hirundo smithii,3,5,LC,Southern Africa,0,1,1,1,1,0,0,0,0,0,3,1,0,0,1
+521,Blue Swallow,Hirundo atrocaerulea,3,3,"VU global, CR s Afr",Southern Africa,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+523,Pearl-breasted Swallow,Hirundo dimidiata,3,5,LC,Southern Africa,0,0,3,1,1,1,1,1,0,0,1,0,0,0,2
+526,Greater Striped Swallow,Hirundo cucullata,3,5,LC,Southern Africa,0,0,0,3,1,1,2,2,1,0,2,1,0,0,1
+527,Lesser Striped Swallow,Hirundo abyssinica,3,5,LC,Southern Africa,0,1,2,1,2,0,0,0,0,0,2,0,0,0,1
+524,Red-breasted Swallow,Hirundo semirufa,3,5,LC,Southern Africa,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0
+525,Mosque Swallow,Hirundo senegalensis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+904,Red-rumped Swallow,Hirundo daurica,3,5,LC,Southern Africa,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0
+528,South African Cliff-Swallow,Hirundo spilodera,3,5,LC,Southern Africa,0,0,0,3,0,0,0,3,0,0,0,0,0,0,1
+529,Rock Martin,Hirundo fuligula,3,5,LC,Southern Africa,3,0,0,0,1,0,0,3,3,1,0,0,1,0,1
+530,Common House-Martin,Delichon urbicum,3,5,LC,Southern Africa,1,0,0,3,1,1,2,2,0,0,0,0,0,0,2
+913,White-headed Saw-wing,Psalidoprocne albiceps,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+536,Black Saw-wing,Psalidoprocne holomelaena,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,1,0,0,0,0
+537,Eastern Saw-wing,Psalidoprocne orientalis,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+568,Dark-capped Bulbul,Pycnonotus tricolor,3,5,LC,Southern Africa,0,3,1,1,1,1,0,0,0,0,0,0,0,0,3
+567,African Red-eyed Bulbul,Pycnonotus nigricans,2,5,LC,Southern Africa,0,0,0,0,3,1,0,1,0,0,0,0,0,0,1
+566,Cape Bulbul,Pycnonotus capensis,1,5,LC,Southern Africa,0,0,1,0,1,1,3,2,0,0,0,0,0,0,1
+572,Sombre Greenbul,Andropadus importunus,3,5,LC,Southern Africa,0,3,1,0,1,0,1,1,0,0,0,0,0,0,1
+573,Stripe-cheeked Greenbul,Andropadus milanjensis,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+574,Yellow-bellied Greenbul,Chlorocichla flaviventris,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+569,Terrestrial Brownbul,Phyllastrephus terrestris,3,5,LC,Southern Africa,0,3,2,0,0,1,0,0,0,0,0,0,0,0,1
+570,Yellow-streaked Greenbul,Phyllastrephus flavostriatus,3,5,LC,Southern Africa,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0
+571,Tiny Greenbul,Phyllastrephus debilis,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,Eastern Nicator,Nicator gularis,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+707,Livingstones Flycatcher,Erythrocercus livingstonei,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+706,Fairy Flycatcher,Stenostira scita,1,5,LC,Southern Africa,0,0,1,1,3,1,1,2,0,0,0,0,0,0,0
+709,White-tailed Crested Flycatcher,Elminia albonotata,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,Rockrunner,Achaetops pycnopygius,2,5,LC,Southern Africa,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0
+661,Cape Grassbird,Sphenoeacus afer,1,5,LC,Southern Africa,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0
+663,Moustached Grass-Warbler,Melocichla mentalis,3,5,LC,Southern Africa,0,1,1,3,0,0,0,0,0,0,2,0,0,0,0
+641,Victorins Warbler,Cryptillas victorini,1,5,LC,Southern Africa,0,1,0,0,0,0,3,0,0,0,1,0,0,0,0
+652,Red-capped Crombec,Sylvietta ruficapilla,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+650,Red-faced Crombec,Sylvietta whytii,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+651,Long-billed Crombec,Sylvietta rufescens,3,5,LC,Southern Africa,0,0,1,0,3,1,0,1,0,0,0,0,0,0,1
+653,Yellow-bellied Eremomela,Eremomela icteropygialis,3,5,LC,Southern Africa,0,0,0,0,3,1,0,1,1,1,0,0,0,0,0
+655,Green-capped Eremomela,Eremomela scotops,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+654,Karoo Eremomela,Eremomela gregalis,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+656,Burnt-necked Eremomela,Eremomela usticollis,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+642,Broad-tailed Warbler,Schoenicola brevirostris,3,5,NT,Southern Africa,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0
+627,River Warbler,Locustella fluviatilis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+638,Little Rush-Warbler,Bradypterus baboecala,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+640,Knysna Warbler,Bradypterus sylvaticus,1,3,VU  ,Southern Africa,0,0,0,0,0,0,3,0,0,0,3,0,0,0,1
+639,Barratts Warbler,Bradypterus barratti,1,5,LC,Southern Africa,0,1,0,2,0,0,0,0,0,0,3,0,0,0,0
+634,Sedge Warbler,Acrocephalus schoenobaenus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+630,Eurasian Reed-Warbler,Acrocephalus scirpaceus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+631,African Reed-Warbler,Acrocephalus baeticatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+633,Marsh Warbler,Acrocephalus palustris,3,5,LC,Southern Africa,0,1,1,1,0,0,0,0,0,0,3,0,0,0,1
+628,Great Reed-Warbler,Acrocephalus arundinaceus,3,5,LC,Southern Africa,0,0,1,1,1,1,0,0,0,0,3,0,0,0,1
+629,Basra Reed-Warbler,Acrocephalus griseldis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+636,Greater Swamp-Warbler,Acrocephalus rufescens,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+635,Lesser Swamp-Warbler,Acrocephalus gracilirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1
+626,Olive-tree Warbler,Hippolais olivetorum,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+625,Icterine Warbler,Hippolais icterina,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+637,Dark-capped Yellow Warbler,Chloropeta natalensis,3,5,LC,Southern Africa,0,1,0,1,1,0,0,0,0,0,3,0,0,0,1
+644,Yellow-throated Woodland-Warbler,Phylloscopus ruficapilla,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,Willow Warbler,Phylloscopus trochilus,3,5,LC,Southern Africa,0,1,3,0,3,0,0,0,0,0,0,0,0,0,2
+623,Yellow-bellied Hyliota,Hyliota flavigaster,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+624,Southern Hyliota,Hyliota australis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+561,Black-faced Babbler,Turdoides melanops,2,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+562,Hartlaubs Babbler,Turdoides hartlaubii,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0
+563,Southern Pied Babbler,Turdoides bicolor,1,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0
+560,Arrow-marked Babbler,Turdoides jardineii,3,5,LC,Southern Africa,0,0,3,0,2,0,0,0,0,0,1,0,0,0,1
+564,Bare-cheeked Babbler,Turdoides gymnogenys,2,5,LC,Southern Africa,0,0,1,0,3,0,0,0,3,1,0,0,0,0,0
+565,Bush Blackcap,Lioptilus nigricapillus,1,4,NT,Southern Africa,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0
+622,Layards Tit-Babbler,Parisoma layardi,1,5,LC,Southern Africa,0,0,0,0,0,0,1,1,3,1,0,0,0,0,1
+621,Chestnut-vented Tit-Babbler,Parisoma subcaeruleum,2,5,LC,Southern Africa,0,0,1,0,3,1,1,1,1,0,0,0,0,0,1
+911,Blackcap,Sylvia atricapilla,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+619,Garden Warbler,Sylvia borin,3,5,LC,Southern Africa,0,1,3,0,1,1,0,0,0,0,0,0,0,0,1
+620,Common Whitethroat,Sylvia communis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+797,African Yellow White-eye,Zosterops senegalensis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
+796,Cape White-eye,Zosterops capensis,1,5,LC,Southern Africa,0,3,1,0,1,2,2,2,0,0,0,0,0,0,2
+0,Orange River White-eye,Zosterops pallidus,1,5,LC,Southern Africa,0,0,2,0,1,0,0,0,0,0,3,0,0,0,2
+674,Red-faced Cisticola,Cisticola erythrops,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
+673,Singing Cisticola,Cisticola cantans,3,5,LC,Southern Africa,0,1,1,1,1,0,0,0,0,0,3,0,0,0,1
+679,Lazy Cisticola,Cisticola aberrans,3,5,LC,Southern Africa,0,1,3,1,1,0,0,0,1,0,0,0,0,0,1
+672,Rattling Cisticola,Cisticola chiniana,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+671,Tinkling Cisticola,Cisticola rufilatus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+669,Grey-backed Cisticola,Cisticola subruficapilla,2,5,LC,Southern Africa,0,0,0,0,0,1,3,3,3,0,0,0,0,0,1
+670,Wailing Cisticola,Cisticola lais,3,5,LC,Southern Africa,0,0,0,3,0,0,1,0,0,0,0,0,0,0,1
+675,Rufous-winged Cisticola,Cisticola galactotes,2,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+0,Luapula Cisticola,Cisticola luapula,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+676,Chirping Cisticola,Cisticola pipiens,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+677,Levaillants Cisticola,Cisticola tinniens,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,1
+678,Croaking Cisticola,Cisticola natalensis,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,1,0,0,0,1
+681,Neddicky,Cisticola fulvicapilla,3,5,LC,Southern Africa,0,0,3,1,1,1,2,1,0,0,0,0,0,0,2
+680,Short-winged Cisticola,Cisticola brachypterus,3,5,LC,Southern Africa,0,0,3,1,3,0,0,0,0,0,0,0,0,0,1
+664,Zitting Cisticola,Cisticola juncidis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3
+665,Desert Cisticola,Cisticola aridulus,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1
+666,Cloud Cisticola,Cisticola textrix,3,5,LC,Southern Africa,0,0,0,3,0,0,1,0,0,0,0,0,0,0,1
+668,Pale-crowned Cisticola,Cisticola cinnamomeus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+667,Wing-snapping Cisticola,Cisticola ayresii,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+683,Tawny-flanked Prinia,Prinia subflava,3,5,LC,Southern Africa,0,0,3,1,1,0,0,0,0,0,1,0,0,0,1
+685,Black-chested Prinia,Prinia flavicans,2,5,LC,Southern Africa,0,0,0,0,3,0,0,3,1,0,1,0,0,0,1
+686,Karoo Prinia,Prinia maculosa,1,5,LC,Southern Africa,0,0,0,1,1,1,3,3,0,0,1,0,0,0,1
+0,Drakensberg Prinia,Prinia hypoxantha,1,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+687,Namaqua Warbler,Phragmacia substriata,1,5,LC,Southern Africa,0,0,0,0,0,0,0,1,0,0,3,0,0,0,1
+684,Robertss Warbler,Oreophilais robertsi,1,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+682,Red-winged Warbler,Heliolais erythropterus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0
+688,Rufous-eared Warbler,Malcorus pectoralis,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0
+645,Bar-throated Apalis,Apalis thoracica,3,5,LC,Southern Africa,0,2,3,1,1,1,1,1,0,0,0,0,0,0,1
+648,Yellow-breasted Apalis,Apalis flavida,3,5,LC,Southern Africa,0,3,3,0,1,1,0,0,0,0,0,0,0,0,0
+649,Rudds Apalis,Apalis ruddi,2,5,NT,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+647,Black-headed Apalis,Apalis melanocephala,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+646,Chirinda Apalis,Apalis chirindensis,1,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,Green-backed Camaroptera,Camaroptera brachyura,1,5,LC,Southern Africa,0,3,1,0,0,1,0,0,0,0,0,0,0,0,1
+0,Grey-backed Camaroptera,Camaroptera brevicaudata,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1
+658,Barred Wren-Warbler,Calamonastes fasciolatus,2,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+659,Stierlings Wren-Warbler,Calamonastes stierlingi,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+660,Cinnamon-breasted Warbler,Euryptila subcinnamomea,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0
+493,Monotonous Lark,Mirafra passerina,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1
+492,Melodious Lark,Mirafra cheniana,1,4,NT,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1
+494,Rufous-naped Lark,Mirafra africana,3,5,LC,Southern Africa,0,0,1,3,3,1,1,0,0,0,0,0,0,0,1
+496,Flappet Lark,Mirafra rufocinnamomea,3,5,LC,Southern Africa,0,0,3,1,1,0,0,0,0,0,0,0,0,0,1
+495,Cape Clapper Lark,Mirafra apiata,1,5,LC,Southern Africa,0,0,0,1,0,0,3,3,0,0,0,0,0,0,1
+495,Eastern Clapper Lark,Mirafra [apiata] fasciolata,2,5,LC,Southern Africa,0,0,0,3,1,0,0,0,1,1,0,0,0,0,1
+499,Rudds Lark,Heteromirafra ruddi,1,1,CR,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+498,Sabota Lark,Calendulauda sabota,3,5,LC,Southern Africa,0,0,1,0,3,0,0,1,1,1,0,0,0,0,1
+497,Fawn-coloured Lark,Calendulauda africanoides,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,1,0,0,0,0,1
+504,Red Lark,Calendulauda burra,1,3,VU,Southern Africa,0,0,0,3,2,0,0,1,0,0,0,0,0,0,0
+502,Karoo Lark,Calendulauda albescens,1,5,LC,Southern Africa,0,0,0,1,0,0,1,3,0,0,0,0,0,0,1
+0,Barlows Lark,Calendulauda barlowi,1,5,LC,Southern Africa,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0
+503,Dune Lark,Calendulauda erythrochlamys,1,5,LC,Southern Africa,0,0,0,dune,0,0,0,0,0,0,0,0,0,0,0
+505,Dusky Lark,Pinarocorys nigricans,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+514,Grays Lark,Ammomanopsis grayi,2,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+506,Spike-heeled Lark,Chersomanes albofasciata,2,5,LC,Southern Africa,0,0,0,2,2,0,0,3,1,1,0,0,0,0,1
+500,Cape Long-billed Lark,Certhilauda curvirostris,1,5,LC,Southern Africa,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1
+500,Agulhas Long-billed Lark,Certhilauda brevirostris,1,4,NT,Southern Africa,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1
+500,Eastern Long-billed Lark,Certhilauda semitorquata,1,5,LC,Southern Africa,0,0,0,3,0,0,0,1,2,0,0,0,0,0,0
+500,Karoo Long-billed Lark,Certhilauda subcoronata,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,3,0,0,0,0,0,1
+500,Benguela Long-billed Lark,Certhilauda benguelensis,2,5,LC,Southern Africa,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0
+501,Short-clawed Lark,Certhilauda chuana,1,4,NT,Southern Africa,0,0,0,0,3,0,0,1,2,0,0,0,0,0,1
+517,Black-eared Sparrowlark,Eremopterix australis,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+515,Chestnut-backed Sparrowlark,Eremopterix leucotis,3,5,LC,Southern Africa,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1
+516,Grey-backed Sparrowlark,Eremopterix verticalis,2,5,LC,Southern Africa,0,0,0,1,1,0,0,3,1,2,0,0,0,0,1
+507,Red-capped Lark,Calandrella cinerea,3,5,LC,Southern Africa,0,0,0,3,1,0,0,3,0,1,0,0,0,0,1
+511,Starks Lark,Spizocorys starki,2,5,LC,Southern Africa,0,0,0,desert,1,0,0,1,0,3,0,0,0,0,1
+508,Pink-billed Lark,Spizocorys conirostris,2,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2
+509,Bothas Lark,Spizocorys fringillaris,1,2,EN,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+510,Sclaters Lark,Spizocorys sclateri,1,4,NT,Southern Africa,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0
+512,Large-billed Lark,Galerida magnirostris,1,5,LC,Southern Africa,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1
+559,Spotted Creeper,Salpornis spilonotus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+581,Cape Rock-Thrush,Monticola rupestris,1,5,LC,Southern Africa,3,0,0,0,0,0,1,1,3,0,0,0,1,0,1
+582,Sentinel Rock-Thrush,Monticola explorator,1,5,LC,Southern Africa,0,0,0,3,0,0,3,1,1,0,0,0,0,0,1
+583,Short-toed Rock-Thrush,Monticola brevipes,2,5,LC,Southern Africa,2,0,0,0,0,0,0,0,3,0,0,0,0,0,1
+584,Miombo Rock-Thrush,Monticola angolensis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+579,Orange Ground-Thrush,Zoothera gurneyi,3,5,NT,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,Spotted Ground-Thrush,Zoothera guttata,3,5,EN,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,Groundscraper Thrush,Psophocichla litsipsirupa,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+576,Kurrichane Thrush,Turdus libonyanus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+577,Olive Thrush,Turdus olivaceus,1,5,LC,Southern Africa,0,3,1,0,0,0,1,0,0,0,0,0,0,0,3
+0,Karoo Thrush,Turdus smithi,1,5,LC,Southern Africa,0,0,3,0,0,0,0,1,0,0,0,0,0,0,3
+605,White-chested Alethe,Pseudalethe fuelleborni,3,5,NT,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,Pale Flycatcher,Bradornis pallidus,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+697,Chat Flycatcher,Bradornis infuscatus,2,5,LC,Southern Africa,0,0,0,0,3,0,0,3,2,2,0,0,0,0,0
+695,Marico Flycatcher,Bradornis mariquensis,2,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+694,Southern Black Flycatcher,Melaenornis pammelaina,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+698,Fiscal Flycatcher,Sigelus silens,1,5,LC,Southern Africa,0,0,1,1,3,1,1,1,0,0,0,0,0,0,2
+689,Spotted Flycatcher,Muscicapa striata,3,5,LC,Southern Africa,0,1,2,1,3,1,1,1,0,0,0,0,0,0,2
+690,African Dusky Flycatcher,Muscicapa adusta,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,2
+691,Ashy Flycatcher,Muscicapa caerulescens,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+693,Grey Tit-Flycatcher,Myioparus plumbeus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+692,Collared Flycatcher,Ficedula albicollis,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0
+606,White-starred Robin,Pogonocichla stellata,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+607,Swynnertons Robin,Swynnertonia swynnertoni,3,3,VU,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,East Coast Akalat,Sheppardia gunningi,3,3,VU,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,Thrush Nightingale,Luscinia luscinia,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,3
+601,Cape Robin-Chat,Cossypha caffra,3,5,LC,Southern Africa,0,1,3,0,3,3,2,2,0,0,0,0,1,0,3
+602,White-throated Robin-Chat,Cossypha humeralis,1,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+599,White-browed Robin-Chat,Cossypha heuglini,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+600,Red-capped Robin-Chat,Cossypha natalensis,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1
+598,Chorister Robin-Chat,Cossypha dichroa,1,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+603,Collared Palm-Thrush,Cichladusa arquata,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,1,0,0,0,1
+604,Rufous-tailed Palm-Thrush,Cichladusa ruficauda,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0
+617,Bearded Scrub-Robin,Cercotrichas quadrivirgata,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+616,Brown Scrub-Robin,Cercotrichas signata,1,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1
+613,White-browed Scrub-Robin,Cercotrichas leucophrys,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+615,Kalahari Scrub-Robin,Cercotrichas paena,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+614,Karoo Scrub-Robin,Cercotrichas coryphoeus,1,5,LC,Southern Africa,0,0,0,0,0,1,3,3,0,0,0,0,0,0,1
+618,Herero Chat,Namibornis herero,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+916,Common Redstart,Phoenicurus phoenicurus,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+597,Whinchat,Saxicola rubetra,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3
+596,African Stonechat,Saxicola torquatus,3,5,LC,Southern Africa,0,0,0,3,0,1,3,1,0,0,2,0,0,0,1
+588,Buff-streaked Chat,Oenanthe bifasciata,1,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+586,Mountain Wheatear,Oenanthe monticola,2,5,LC,Southern Africa,0,0,0,0,0,0,1,3,3,1,0,0,0,0,2
+585,Northern Wheatear,Oenanthe oenanthe,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+907,Pied Wheatear,Oenanthe pleschanka,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+587,Capped Wheatear,Oenanthe pileata,3,5,LC,Southern Africa,0,0,0,3,0,0,1,3,0,0,0,0,0,0,3
+915,Isabelline Wheatear,Oenanthe isabellina,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+591,Sickle-winged Chat,Cercomela sinuata,1,5,LC,Southern Africa,0,0,0,0,0,0,3,3,3,0,0,0,0,0,1
+592,Karoo Chat,Cercomela schlegelii,2,5,LC,Southern Africa,0,0,0,0,0,0,0,3,2,3,0,0,0,0,1
+590,Tractrac Chat,Cercomela tractrac,2,5,LC,Southern Africa,0,0,0,0,0,0,0,3,1,3,0,0,0,0,1
+589,Familiar Chat,Cercomela familiaris,3,5,LC,Southern Africa,1,0,0,1,1,0,0,3,3,1,0,0,0,0,3
+595,Anteating Chat,Myrmecocichla formicivora,1,5,LC,Southern Africa,0,0,0,3,3,0,0,3,0,0,0,0,0,0,1
+594,Arnots Chat,Myrmecocichla arnoti,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+593,Mocking Cliff-Chat,Thamnolaea cinnamomeiventris,3,5,LC,Southern Africa,3,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+610,Boulder Chat,Pinarornis plumosus,2,5,LC,Southern Africa,0,0,1,0,1,0,0,0,3,0,0,0,0,0,0
+770,Pale-winged Starling,Onychognathus nabouroup,2,5,LC,Southern Africa,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+769,Red-winged Starling,Onychognathus morio,3,5,LC,Southern Africa,3,2,1,0,0,1,1,1,1,0,0,0,0,0,1
+768,Black-bellied Starling,Lamprotornis corruscus,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+764,Cape Glossy Starling,Lamprotornis nitens,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+765,Greater Blue-eared Starling,Lamprotornis chalybaeus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+766,Miombo Blue-eared Starling,Lamprotornis elisabeth,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+767,Sharp-tailed Starling,Lamprotornis acuticaudus,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+762,Burchells Starling,Lamprotornis australis,2,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+763,Mevess Starling,Lamprotornis mevesii,2,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+761,Violet-backed Starling,Cinnyricinclus leucogaster,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+759,Pied Starling,Spreo bicolor,1,5,LC,Southern Africa,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1
+760,Wattled Starling,Creatophora cinerea,3,5,LC,Southern Africa,0,0,0,1,3,0,0,1,0,0,0,0,0,0,1
+757,Common Starling,Sturnus vulgaris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+758,Common Myna,Acridotheres tristis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+771,Yellow-billed Oxpecker,Buphagus africanus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+772,Red-billed Oxpecker,Buphagus erythrorhynchus,3,5,LC,Southern Africa,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1
+794,Plain-backed Sunbird,Anthreptes reichenowi,3,4,NT,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,Western Violet-backed Sunbird,Anthreptes longuemarei,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+777,Orange-breasted Sunbird,Anthobaphes violacea,1,5,LC,Southern Africa,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1
+790,Olive Sunbird,Cyanomitra olivacea,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+789,Grey Sunbird,Cyanomitra veroxii,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+792,Amethyst Sunbird,Chalcomitra amethystina,3,5,LC,Southern Africa,0,1,1,0,3,0,0,0,0,0,0,0,0,0,2
+791,Scarlet-chested Sunbird,Chalcomitra senegalensis,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,2
+776,Bronzy Sunbird,Nectarinia kilimensis,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+775,Malachite Sunbird,Nectarinia famosa,3,5,LC,Southern Africa,0,0,0,2,2,1,3,2,1,0,0,0,0,0,2
+793,Collared Sunbird,Hedydipna collaris,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+784,Miombo Double-collared Sunbird,Cinnyris manoensis,3,5,LC,Southern Africa,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+783,Southern Double-collared Sunbird,Cinnyris chalybeus,1,5,LC,Southern Africa,0,1,1,0,1,1,3,3,0,0,0,0,0,0,1
+785,Greater Double-collared Sunbird,Cinnyris afer,1,5,LC,Southern Africa,0,3,1,0,0,0,3,0,0,0,0,0,0,0,1
+782,Neergaards Sunbird,Cinnyris neergaardi,1,4,NT,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+786,Variable Sunbird,Cinnyris venustus,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0
+787,White-bellied Sunbird,Cinnyris talatala,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+778,Copper Sunbird,Cinnyris cupreus,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1
+788,Dusky Sunbird,Cinnyris fuscus,2,5,LC,Southern Africa,0,0,0,0,1,0,0,3,3,3,0,0,0,0,1
+781,Shelleys Sunbird,Cinnyris shelleyi,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+779,Marico Sunbird,Cinnyris mariquensis,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+780,Purple-banded Sunbird,Cinnyris bifasciatus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1
+774,Gurneys Sugarbird,Promerops gurneyi,1,5,LC,Southern Africa,0,1,0,0,0,0,3,0,0,0,0,0,0,0,1
+773,Cape Sugarbird,Promerops cafer,1,5,LC,Southern Africa,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+798,Red-billed Buffalo-Weaver,Bubalornis niger,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,1
+806,Scaly-feathered Finch,Sporopipes squamifrons,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,1,0,0,0,0,2
+799,White-browed Sparrow-Weaver,Plocepasser mahali,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2
+800,Sociable Weaver,Philetairus socius,1,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1
+815,Lesser Masked-Weaver,Ploceus intermedius,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,2,0,0,0,1
+810,Spectacled Weaver,Ploceus ocularis,3,5,LC,Southern Africa,0,1,3,0,1,0,0,0,0,0,1,0,0,0,1
+813,Cape Weaver,Ploceus capensis,1,5,LC,Southern Africa,0,0,0,3,0,0,3,0,0,0,3,0,0,0,2
+817,Yellow Weaver,Ploceus subaureus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1
+816,Golden Weaver,Ploceus xanthops,3,5,LC,Southern Africa,0,0,1,1,1,0,0,0,0,0,3,0,0,0,1
+818,Southern Brown-throated Weaver,Ploceus xanthopterus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+814,Southern Masked-Weaver,Ploceus velatus,2,5,LC,Southern Africa,0,0,0,1,3,0,0,1,0,0,2,1,0,0,3
+811,Village Weaver,Ploceus cucullatus,3,5,LC,Southern Africa,0,1,1,0,3,0,0,0,0,0,3,0,0,0,1
+812,Chestnut Weaver,Ploceus rubiginosus,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0
+808,Dark-backed Weaver,Ploceus bicolor,3,5,LC,Southern Africa,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+809,Olive-headed Weaver,Ploceus olivaceiceps,3,4,NT,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+819,Red-headed Weaver,Anaplectes melanotis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+823,Cardinal Quelea,Quelea cardinalis,3,5,LC,Southern Africa,0,0,0,3,1,0,0,0,0,0,3,0,0,0,0
+822,Red-headed Quelea,Quelea erythrops,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,1
+821,Red-billed Quelea,Quelea quelea,3,5,LC,Southern Africa,0,0,0,1,3,0,0,0,0,0,3,0,0,0,3
+826,Yellow-crowned Bishop,Euplectes afer,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+825,Black-winged Bishop,Euplectes hordeaceus,3,5,LC,Southern Africa,0,0,2,0,0,0,0,0,0,0,3,0,0,0,1
+824,Southern Red Bishop,Euplectes orix,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
+827,Yellow Bishop,Euplectes capensis,3,5,LC,Southern Africa,0,1,0,2,0,0,3,1,0,0,2,1,0,0,1
+828,Fan-tailed Widowbird,Euplectes axillaris,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,2,0,0,0,1
+830,Yellow-mantled Widowbird,Euplectes macrourus,3,5,LC,Southern Africa,0,0,0,2,1,0,0,0,0,0,3,0,0,0,1
+829,White-winged Widowbird,Euplectes albonotatus,3,5,LC,Southern Africa,0,0,0,2,1,0,0,0,0,0,3,0,0,0,1
+831,Red-collared Widowbird,Euplectes ardens,3,5,LC,Southern Africa,0,0,0,2,3,0,0,0,0,0,0,0,0,0,1
+832,Long-tailed Widowbird,Euplectes progne,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2
+807,Thick-billed Weaver,Amblyospiza albifrons,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2
+853,Locustfinch,Paludipasser locustella,3,4,NT,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0
+854,Orange-breasted Waxbill,Sporaeginthus subflavus,3,5,LC,Southern Africa,0,1,0,3,0,0,0,0,0,0,3,0,0,0,2
+852,African Quailfinch,Ortygospiza atricollis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2
+856,Red-headed Finch,Amadina erythrocephala,2,5,LC,Southern Africa,0,0,0,2,3,0,0,2,0,2,0,0,0,0,2
+855,Cut-throat Finch,Amadina fasciata,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,2
+851,Yellow-bellied Waxbill,Coccopygia quartinia,3,5,LC,Southern Africa,0,3,2,2,0,0,0,0,0,0,0,0,0,0,2
+850,Swee Waxbill,Coccopygia melanotis,1,5,LC,Southern Africa,0,3,2,2,0,0,0,0,0,0,0,0,0,0,2
+835,Green Twinspot,Mandingoa nitidula,3,5,LC,Southern Africa,0,3,3,0,0,0,0,0,0,0,0,0,0,0,2
+836,Red-faced Crimsonwing,Cryptospiza reichenovii,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,3,0,0,0,2
+847,Black-faced Waxbill,Estrilda erythronotos,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0
+848,Grey Waxbill,Estrilda perreini,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+849,Cinderella Waxbill,Estrilda thomensis,2,4,NT,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2
+846,Common Waxbill,Estrilda astrild,3,5,LC,Southern Africa,0,0,1,3,3,2,2,2,0,0,3,0,0,0,2
+837,Lesser Seedcracker,Pyrenestes minor,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1
+845,Violet-eared Waxbill,Granatina granatina,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2
+844,Blue Waxbill,Uraeginthus angolensis,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3
+839,Red-throated Twinspot,Hypargos niveoguttatus,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+838,Pink-throated Twinspot,Hypargos margaritatus,1,5,NT s Afr,Southern Africa,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+834,Green-winged Pytilia,Pytilia melba,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,3,0,0,0,2
+833,Orange-winged Pytilia,Pytilia afra,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+842,Red-billed Firefinch,Lagonosticta senegala,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+843,Brown Firefinch,Lagonosticta nitidula,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0
+840,African Firefinch,Lagonosticta rubricata,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,2,0,0,0,2
+841,Jamesons Firefinch,Lagonosticta rhodopareia,3,5,LC,Southern Africa,0,1,3,0,0,0,0,0,0,0,2,0,0,0,2
+857,Bronze Mannikin,Spermestes cucullatus,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,2
+859,Magpie Mannikin,Spermestes fringilloides,3,5,NT,Southern Africa,0,2,3,0,0,0,0,0,0,0,2,0,0,0,2
+858,Red-backed Mannikin,Spermestes bicolor,3,5,LC,Southern Africa,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1
+860,Pin-tailed Whydah,Vidua macroura,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3
+863,Broad-tailed Paradise-Whydah,Vidua obtusa,3,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,2,0,0,0,2
+862,Long-tailed Paradise-Whydah,Vidua paradisaea,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+861,Shaft-tailed Whydah,Vidua regia,2,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,2
+867,Village Indigobird,Vidua chalybeata,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+864,Dusky Indigobird,Vidua funerea,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
+865,Purple Indigobird,Vidua purpurascens,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2
+0,Twinspot Indigobird,Vidua codringtoni,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+820,Cuckoo Finch,Anomalospiza imberbis,3,5,LC,Southern Africa,0,0,0,3,2,0,0,0,0,0,3,0,0,0,2
+801,House Sparrow,Passer domesticus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+802,Great Sparrow,Passer motitensis,2,5,LC,Southern Africa,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+803,Cape Sparrow,Passer melanurus,2,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3
+804,Southern Grey-headed Sparrow,Passer diffusus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3
+0,Northern Grey-headed Sparrow,Passer griseus,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3
+805,Yellow-throated Petronia,Petronia superciliaris,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
+711,African Pied Wagtail,Motacilla aguimp,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+713,Cape Wagtail,Motacilla capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+714,Yellow Wagtail,Motacilla flava,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,3
+0,Citrine Wagtail,Motacilla citreola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0
+715,Grey Wagtail,Motacilla cinerea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+712,Mountain Wagtail,Motacilla clara,3,5,LC,Southern Africa,0,3,0,0,0,0,0,0,0,0,3,0,0,0,1
+726,Golden Pipit,Tmetothylacus tenellus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+728,Yellow-throated Longclaw,Macronyx croceus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2
+727,Cape Longclaw,Macronyx capensis,1,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2
+730,Rosy-throated Longclaw,Macronyx ameliae,3,5,NT,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2
+725,Yellow-breasted Pipit,Anthus chloris,1,3,VU,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2
+720,Striped Pipit,Anthus lineiventris,3,5,LC,Southern Africa,1,2,3,0,0,0,0,0,0,0,0,0,0,0,1
+721,African Rock Pipit,Anthus crenatus,1,5,LC,Southern Africa,0,0,0,3,0,0,0,3,3,0,0,0,0,0,0
+716,African Pipit,Anthus cinnamomeus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,0,0,0,3
+901,Mountain Pipit,Anthus hoeschi,1 (br),5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+718,Plain-backed Pipit,Anthus leucophrys,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,3,1,1,0,0
+719,Buffy Pipit,Anthus vaalensis,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2
+0,Long-tailed Pipit,Anthus longicaudatus,2,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2
+717,Long-billed Pipit,Anthus similis,3,5,LC,Southern Africa,0,0,2,3,3,0,0,0,3,0,0,0,0,0,2
+0,Kimberley Pipit,Anthus pseudosimilis,1,5,LC,Southern Africa,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0
+909,Wood Pipit,Anthus nyassae,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+724,Short-tailed Pipit,Anthus brachyurus,3,5,LC,Southern Africa,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0
+723,Bushveld Pipit,Anthus caffer,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+722,Tree Pipit,Anthus trivialis,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
+903,Red-throated Pipit,Anthus cervinus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+868,Common Chaffinch,Fringilla coelebs,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+872,Cape Canary,Serinus canicollis,1,5,LC,Southern Africa,0,2,3,0,0,0,3,0,0,0,0,0,0,0,3
+876,Black-headed Canary,Serinus alario,1,5,LC,Southern Africa,0,0,0,0,0,0,0,3,3,2,0,0,0,0,2
+869,Yellow-fronted Canary,Crithagra mozambicus,3,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,3
+870,Black-throated Canary,Crithagra atrogularis,3,5,LC,Southern Africa,0,0,3,0,3,0,0,2,0,0,0,0,0,0,2
+871,Lemon-breasted Canary,Crithagra citrinipectus,2,5,LC,Southern Africa,0,0,2,0,3,0,0,0,0,0,0,0,0,0,2
+873,Forest Canary,Crithagra scotops,1,5,LC,Southern Africa,0,3,0,0,0,2,2,0,0,0,0,0,0,0,1
+878,Yellow Canary,Crithagra flaviventris,2,5,LC,Southern Africa,0,0,0,0,2,0,2,3,0,0,0,1,1,0,2
+877,Brimstone Canary,Crithagra sulphuratus,3,5,LC,Southern Africa,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2
+879,White-throated Canary,Crithagra albogularis,2,5,LC,Southern Africa,0,0,0,0,2,0,2,3,3,2,0,0,0,0,2
+880,Protea Seedeater,Crithagra leucopterus,1,5,LC,Southern Africa,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1
+881,Streaky-headed Seedeater,Crithagra gularis,3,5,LC,Southern Africa,0,0,3,0,2,0,2,0,0,0,0,0,0,0,2
+882,Black-eared Seedeater,Crithagra mennelli,3,5,LC,Southern Africa,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2
+874,Cape Siskin,Crithagra totta,1,5,LC,Southern Africa,0,0,0,0,0,0,3,1,0,0,0,0,0,0,2
+875,Drakensberg Siskin,Crithagra symonsi,1,5,LC,Southern Africa,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0
+887,Lark-like Bunting,Emberiza impetuani,3,5,LC,Southern Africa,0,0,0,3,2,0,0,3,3,3,0,0,0,0,1
+886,Cinnamon-breasted Bunting,Emberiza tahapisi,3,5,LC,Southern Africa,0,0,3,2,2,0,0,0,3,0,0,0,0,0,2
+885,Cape Bunting,Emberiza capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,3,3,3,2,0,0,0,0,2
+884,Golden-breasted Bunting,Emberiza flaviventris,3,5,LC,Southern Africa,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2
