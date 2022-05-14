@@ -1,0 +1,66 @@
+Ref,Common name,Scientific name,Endemic,Red Data Status (BirdLife Int),RDL status (in SA),Region,Cliffs,Forest,Woodland,Grassland,Savanna,Thicket,Fynbos,Karoo,Semi-arid,Namib desert,Wetland,Lagoons,Open coast,Marine,Agricultural
+101,Fulvous Duck,Dendrocygna bicolor,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+100,White-faced Duck,Dendrocygna viduata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+104,White-backed Duck,Thalassornis leuconotus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+103,Maccoa Duck,Oxyura maccoa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+88,Spur-winged Goose,Plectropterus gambensis,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
+91,Comb Duck,Sarkidiornis melanotos,3,5,LC,Southern Africa,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1
+92,African Pygmy-goose,Nettapus auritus,3,5,LC,Southern Africa,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0
+98,Cape Teal,Anas capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0
+1016,Mallard,Anas platyrhynchos,3,5,LC,Southern Africa,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0
+96,Yellow-billed Duck,Anas undulata,3,5,LC,Southern Africa,0,0,0,1,0,0,1,0,0,0,3,0,0,0,1
+94,Cape Shoveler,Anas smithii,2,5,LC,Southern Africa,0,0,0,1,0,0,1,0,0,0,3,1,0,0,1
+97,Red-billed Teal,Anas erythrorhyncha,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+99,Hottentot Teal,Anas hottentota,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+102,Southern Pochard,Netta erythrophthalma,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,0,0,0,1
+397,Malachite Kingfisher,Alcedo cristata,3,5,LC,Southern Africa,0,1,1,0,0,0,0,0,0,0,3,0,1,1,1
+395,Giant Kingfisher,Megaceryle maximus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1
+394,Pied Kingfisher,Ceryle rudis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1
+353,Black Coucal,Centropus grillii,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+361,Marsh Owl,Asio capensis,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0
+215,Wattled Crane,Bugeranus carunculatus,3,3,VU,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,1
+213,African Finfoot,Podica senegalensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+205,Red-chested Flufftail,Sarothrura rufa,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+197,African Rail,Rallus caerulescens,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+203,Black Crake,Amaurornis flavirostris,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+208,African Purple Swamphen,Porphyrio madagascariensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+209,Allens Gallinule,Porphyrio alleni,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+210,Common Moorhen,Gallinula chloropus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+211,Lesser Moorhen,Gallinula angulata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+212,Red-knobbed Coot,Fulica cristata,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+250,African Snipe,Gallinago nigripennis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+259,Green Sandpiper,Tringa ochropus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+264,Wood Sandpiper,Tringa glareola,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+230,Greater Painted-snipe,Rostratula benghalensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+229,Lesser Jacana,Microparra capensis,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+270,Black-winged Stilt,Himantopus himantopus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+269,Pied Avocet,Recurvirostra avosetta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+246,White-crowned Lapwing,Vanellus albiceps,3,5,NT,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+306,African Skimmer,Rynchops flavirostris,3,4,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+57,Purple Heron,Ardea purpurea,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+62,Squacco Heron,Ardeola ralloides,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+59,Black-crowned Night-Heron,Nycticorax nycticorax,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+67,Little Bittern,Ixobrychus minutus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+66,Dwarf Bittern,Ixobrychus sturmii,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+72,Hamerkop,Scopus umbretta,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0
+86,Greater Flamingo,Phoenicopterus ruber,3,5,"NT S Afr, VU Namibia",Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+87,Lesser Flamingo,Phoenicopterus minor,3,4,"NT S Afr, VU Namibia",Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0
+83,Glossy Ibis,Plegadis falcinellus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+76,Yellow-billed Stork,Mycteria ibis,3,5,NT S Afr,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1
+74,African Openbill,Anastomus lamelligerus,3,5,NT S Afr,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+75,Saddle-billed Stork,Ephippiorhynchus senegalensis,3,5,EN,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+495,White-throated Swallow,Hirundo albigularis,3,5,LC,Southern Africa,0,0,0,1,1,0,1,0,0,0,3,1,0,0,1
+496,Wire-tailed Swallow,Hirundo smithii,3,5,LC,Southern Africa,0,1,1,1,1,0,0,0,0,0,3,1,0,0,1
+609,Little Rush-Warbler,Bradypterus baboecala,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+608,Sedge Warbler,Acrocephalus schoenobaenus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+606,African Reed-Warbler,Acrocephalus baeticatus,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+607,Marsh Warbler,Acrocephalus palustris,3,5,LC,Southern Africa,0,1,1,1,0,0,0,0,0,0,3,0,0,0,1
+603,Great Reed-Warbler,Acrocephalus arundinaceus,3,5,LC,Southern Africa,0,0,1,1,1,1,0,0,0,0,3,0,0,0,1
+666,Dark-capped Yellow Warbler,Chloropeta natalensis,3,5,LC,Southern Africa,0,1,0,1,1,0,0,0,0,0,3,0,0,0,1
+644,Red-faced Cisticola,Cisticola erythrops,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
+4138,Rufous-winged Cisticola,Cisticola galactotes,2,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+646,Levaillants Cisticola,Cisticola tinniens,3,5,LC,Southern Africa,0,0,0,1,0,0,0,0,0,0,3,0,0,0,1
+653,Namaqua Warbler,Phragmacia substriata,1,5,LC,Southern Africa,0,0,0,0,0,0,0,1,0,0,3,0,0,0,1
+801,Golden Weaver,Ploceus xanthops,3,5,LC,Southern Africa,0,0,1,1,1,0,0,0,0,0,3,0,0,0,1
+812,Yellow-crowned Bishop,Euplectes afer,3,5,LC,Southern Africa,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+808,Southern Red Bishop,Euplectes orix,3,5,LC,Southern Africa,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1
