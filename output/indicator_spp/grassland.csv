@@ -1,0 +1,42 @@
+species_id,common_name,taxonomic_name,method,biome,biome_dom_perc,presences,absences,perc_pres
+119,"Falcon, Amur",Falco amurensis,perc_pres,Grassland,53,8595,56771,13.1490377260349
+150,"Vulture, Bearded",Gypaetus barbatus,perc_pres,Grassland,100,793,64573,1.21316892574121
+178,"Francolin, Red-winged",Scleroptila levaillantii,perc_pres,Grassland,65,2041,63325,3.12241838264541
+179,"Francolin, Orange River",Scleroptila gutturalis,perc_pres,Grassland,64,5241,60125,8.0179298106049
+204,"Flufftail, White-winged",Sarothrura ayresi,perc_pres,Grassland,100,18,65348,0.0275372517822721
+214,"Crane, Grey Crowned",Balearica regulorum,perc_pres,Grassland,72,5399,59967,8.2596456873604
+222,"Bustard, White-bellied",Eupodotis senegalensis,perc_pres,Grassland,61,644,64722,0.985221674876847
+223,"Korhaan, Blue",Eupodotis caerulescens,perc_pres,Grassland,77,3741,61625,5.72315882874889
+271,"Phalarope, Red",Phalaropus fulicarius,perc_pres,Grassland,53,26,65340,0.0397760303521709
+282,"Pratincole, Black-winged",Glareola nordmanni,perc_pres,Grassland,63,509,64857,0.778692286509806
+304,"Tern, White-winged",Chlidonias leucopterus,perc_pres,Grassland,51,2077,63289,3.17749288620996
+305,"Tern, Whiskered",Chlidonias hybrida,perc_pres,Grassland,60,6116,59250,9.35654621668757
+360,"Owl, African Grass",Tyto capensis,perc_pres,Grassland,62,220,65146,0.336566410672215
+445,"Woodpecker, Ground",Geocolaptes olivaceus,perc_pres,Grassland,54,2626,62740,4.01737906556926
+453,"Wryneck, Red-throated",Jynx ruficollis,perc_pres,Grassland,60,11808,53558,18.0644371691705
+456,"Lark, Melodious",Mirafra cheniana,perc_pres,Grassland,66,915,64451,1.39981029893217
+472,"Lark, Botha's",Spizocorys fringillaris,perc_pres,Grassland,100,50,65316,0.076492366061867
+473,"Lark, Rudd's",Heteromirafra ruddi,perc_pres,Grassland,100,164,65202,0.250894960682924
+490,"Lark, Pink-billed",Spizocorys conirostris,perc_pres,Grassland,51,1254,64112,1.91842854083163
+497,"Swallow, Blue",Hirundo atrocaerulea,perc_pres,Grassland,59,75,65291,0.114738549092801
+504,"Swallow, South African Cliff",Petrochelidon spilodera,perc_pres,Grassland,67,10377,54989,15.8752256524799
+510,"Martin, Banded",Riparia cincta,perc_pres,Grassland,60,8011,57355,12.2556068904323
+560,"Thrush, Sentinel Rock",Monticola explorator,perc_pres,Grassland,67,1341,64025,2.05152525777927
+569,"Chat, Buff-streaked",Campicoloides bifasciatus,perc_pres,Grassland,79,4221,61145,6.45748554294281
+631,"Cisticola, Cloud",Cisticola textrix,perc_pres,Grassland,63,9739,55627,14.8991830615305
+634,"Cisticola, Wing-snapping",Cisticola ayresii,perc_pres,Grassland,66,7568,57798,11.5778845271242
+635,"Cisticola, Pale-crowned",Cisticola cinnamomeus,perc_pres,Grassland,82,1384,63982,2.11730869259248
+639,"Cisticola, Wailing",Cisticola lais,perc_pres,Grassland,61,4803,60563,7.34785668390295
+700,"Pipit, Short-tailed",Anthus brachyurus,perc_pres,Grassland,66,64,65302,0.0979102285591898
+701,"Pipit, Yellow-breasted",Anthus chloris,perc_pres,Grassland,97,554,64812,0.847535415965487
+703,"Longclaw, Cape",Macronyx capensis,perc_pres,Grassland,57,33153,32213,50.7190282409815
+750,"Sugarbird, Gurney's",Promerops gurneyi,perc_pres,Grassland,60,725,64641,1.10913930789707
+816,"Widowbird, Fan-tailed",Euplectes axillaris,perc_pres,Grassland,51,9794,55572,14.9833246641985
+818,"Widowbird, Long-tailed",Euplectes progne,perc_pres,Grassland,73,30249,35117,46.2763516201083
+82,"Ibis, Southern Bald",Geronticus calvus,perc_pres,Grassland,79,6401,58965,9.79255270324022
+844,-,Ortygospiza atricollis,perc_pres,Grassland,53,12890,52476,19.7197319707493
+856,"Siskin, Drakensberg",Crithagra symonsi,perc_pres,Grassland,99,423,64944,0.647115517003993
+885,-,Spatula querquedula,perc_pres,Grassland,100,1,65366,0.00152982391726712
+886,"Pintail, Northern",Anas acuta,perc_pres,Grassland,100,1,65366,0.00152982391726712
+928,"Pipit, Mountain",Anthus hoeschi,perc_pres,Grassland,98,190,65177,0.290666544280753
+974,"Duck, Hybrid Red/Yellow-billed",Anas erythroryncha/undulata,perc_pres,Grassland,60,6,65362,0.00917880308407784

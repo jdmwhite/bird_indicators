@@ -1,0 +1,17 @@
+species_id,common_name,taxonomic_name,method,biome,biome_dom_perc,presences,absences,perc_pres
+181,"Spurfowl, Cape",Pternistis capensis,perc_pres,Fynbos,53,17036,13506,55.7789273786916
+285,"Jaeger, Pomarine",Stercorarius pomarinus,perc_pres,Fynbos,67,15,30527,0.049112697269334
+289,"Gull, Hartlaub's",Chroicocephalus hartlaubii,perc_pres,Fynbos,60,10767,19775,35.253094099928
+466,"Lark, Clapper",Mirafra apiata,perc_pres,Fynbos,100,1,30542,0.00327407261893069
+51,"Cormorant, Crowned",Microcarbo coronatus,perc_pres,Fynbos,66,2380,28161,7.79280311712125
+540,"Rockjumper, Cape",Chaetops frenatus,perc_pres,Fynbos,77,578,29965,1.89241397374194
+567,"Scrub Robin, Rufous-tailed",Cercotrichas galactotes,perc_pres,Fynbos,100,37,30506,0.121140686900435
+612,"Warbler, Victorin's",Cryptillas victorini,perc_pres,Fynbos,67,1331,29212,4.35779065579675
+749,"Sugarbird, Cape",Promerops cafer,perc_pres,Fynbos,69,7713,22830,25.2529221098124
+753,"Sunbird, Orange-breasted",Anthobaphes violacea,perc_pres,Fynbos,70,5840,24703,19.1205840945552
+855,"Siskin, Cape",Crithagra totta,perc_pres,Fynbos,66,2677,27866,8.76469240087745
+869,"Canary, Protea",Crithagra leucoptera,perc_pres,Fynbos,70,461,30082,1.50934747732705
+870,"Chaffinch, Common",Fringilla coelebs,perc_pres,Fynbos,100,1193,29350,3.90596863438431
+901,"Gull, Sabine's",Xema sabini,perc_pres,Fynbos,67,57,30486,0.186622139279049
+980,"Partridge, Chukar",Alectoris chukar,perc_pres,Fynbos,100,158,30385,0.517303473791049
+985,"Stint, Temminck's",Calidris temminckii,perc_pres,Fynbos,100,96,30447,0.314310971417346

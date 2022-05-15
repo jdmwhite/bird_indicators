@@ -1,0 +1,6 @@
+species_id,common_name,taxonomic_name,method,biome,biome_dom_perc,presences,absences,perc_pres
+220,"Korhaan, Karoo",Eupodotis vigorsii,perc_pres,Nama-Karoo,52,2927,4092,41.7010970223679
+479,"Lark, Red",Calendulauda burra,perc_pres,Nama-Karoo,70,196,6823,2.79242057273116
+486,"Sparrow-Lark, Black-eared",Eremopterix australis,perc_pres,Nama-Karoo,61,565,6454,8.04957971220972
+491,"Lark, Sclater's",Spizocorys sclateri,perc_pres,Nama-Karoo,68,129,6890,1.83786864225673
+492,"Lark, Stark's",Spizocorys starki,perc_pres,Nama-Karoo,54,321,6698,4.57330104003419
