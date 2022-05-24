@@ -234,3 +234,5 @@ all_species <- bind_rows(final_df, other_df)
 
 write_csv(other_df, 'output/final_df/other_species.csv')
 rm(all_species)
+
+eg <- read_csv('output/final_df/eg.csv')

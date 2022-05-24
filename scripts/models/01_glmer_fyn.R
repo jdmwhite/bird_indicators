@@ -4,18 +4,21 @@ library(lme4)
 library(car)
 library(effects)
 library(ggplot2)
+library(beepr)
+
+#importing final dataset
 final <- read_csv('output/final_df/final_df.csv')
 
-wtland <- filter(final, indicator=='wetland')
-
 # Load fynbos stacked df
-fyn_df <- read_csv('output/biome_indicator_dfs/fynbos/fynbos_df.csv')
+fyn_df <- filter(final, indicator=='fynbos')
+
+#number of indicator species
+length(unique(fyn_df$Species_Code))
 
 # add in year variable
 fyn_df$Year <- lubridate::year(fyn_df$StartDate)
 str(fyn_df)
 
-unique(fyn_df$Species_Code)
 # Option to run with Indicator Type as a fixed effect
 # glmer1 <- glmer(Presence ~ Year*Indicator_Type + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
 
@@ -23,6 +26,7 @@ unique(fyn_df$Species_Code)
 start_time <- Sys.time()
 # run a mixed effects model; year = fixed; species = random
 glmer1 <- glmer(Presence ~ scale(Year)  + (scale(Year)|Species_Code) + (1|Pentad), family = 'binomial', data = fyn_df)
+beepr::beep()
 end_time <- Sys.time()
 
 # How long did this take to run?
@@ -40,7 +44,7 @@ plot(allEffects(glmer1))
 #predict
 fyn_df$predict <- predict(glmer1, fyn_df)
 
-fm1 <- lmer(Reaction ~ Days + (Days|Subject), data=sleepstudy)
+fyn_clean <- fyn_df %>% group_by(Species_Code, Year) %>% summarise(predict = mean(predict))
 
-ggplot(data=fyn_df, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
+ggplot(data=fyn_clean, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
 
