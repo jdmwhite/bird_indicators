@@ -2,7 +2,7 @@
 title: "Karoo GLMER"
 author: "Christopher Shortland"
 date: '2022-05-24'
-output: html_document
+output: rmarkdown::github_document
 ---
 
 # Libraries

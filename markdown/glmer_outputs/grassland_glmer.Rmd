@@ -2,7 +2,7 @@
 title: "grassland_glmer"
 author: "Christopher Shortland"
 date: '2022-05-25'
-output: html_document
+output: rmarkdown::github_document
 ---
 
 # Libraries
