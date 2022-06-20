@@ -5,6 +5,8 @@ library(car)
 library(effects)
 library(ggplot2)
 library(beepr)
+library(sjPlot)
+library(glmmTMB)
 
 #importing final dataset
 final <- read_csv('output/final_df/final_df.csv')
@@ -47,4 +49,6 @@ karoo_df$predict <- predict(glm_karoo, karoo_df)
 karoo_clean <- karoo_df %>% group_by(Species_Code, Year) %>% summarise(predict = mean(predict))
 
 ggplot(data=karoo_clean, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
+
+plot_model(glm_karoo, type = "re")
 

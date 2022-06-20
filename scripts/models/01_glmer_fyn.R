@@ -5,7 +5,9 @@ library(car)
 library(effects)
 library(ggplot2)
 library(beepr)
-
+library(sjPlot)
+library(glmmTMB)
+library(dplyr)
 #importing final dataset
 final <- read_csv('output/final_df/final_df.csv')
 
@@ -13,7 +15,10 @@ final <- read_csv('output/final_df/final_df.csv')
 fyn_df <- filter(final, indicator=='fynbos')
 
 #number of indicator species
-length(unique(fyn_df$Species_Code))
+fyn_df %>% filter(!Species_Code %in% c('285',"901", "870", "985", "567", "980", "289", "51")) -> fyn_df
+
+length(unique(fyn_df$Common_name))
+unique(fyn_df$Common_name)
 
 # add in year variable
 fyn_df$Year <- lubridate::year(fyn_df$StartDate)
@@ -25,7 +30,7 @@ str(fyn_df)
 # measure time taken...
 start_time <- Sys.time()
 # run a mixed effects model; year = fixed; species = random
-glmer1 <- glmer(Presence ~ scale(Year)  + (scale(Year)|Species_Code) + (1|Pentad), family = 'binomial', data = fyn_df)
+glmer_fyn <- glmer(Presence ~ Year + (Year|Species_Code) + (1|Pentad), family = 'binomial', data = fyn_df)
 beepr::beep()
 end_time <- Sys.time()
 
@@ -33,18 +38,33 @@ end_time <- Sys.time()
 end_time - start_time
 
 # Summary of model
-summary(glmer1)
+summary(glmer_fyn)
 
 # Anova
-Anova(glmer1)
+Anova(glmer_fyn)
 
 # Plot effects
-plot(allEffects(glmer1))
+plot(allEffects(glmer_fyn))
 
 #predict
-fyn_df$predict <- predict(glmer1, fyn_df)
+fyn_df$predict <- predict(glmer_fyn, fyn_df)
 
 fyn_clean <- fyn_df %>% group_by(Species_Code, Year) %>% summarise(predict = mean(predict))
 
+#original
+#ggplot(data=fyn_df, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
+
 ggplot(data=fyn_clean, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
 
+plot_model(glmer_fyn, type = "re")
+
+pp <- plot_model(fit2,type="pred", terms=c("c12hour","grp"),pred.type="re")
+
+#number of pentads
+length(unique(fyn_df$Pentad))
+
+#total no. cards
+nrow(fyn_df)
+
+#presences and absences
+fyn_df %>% group_by(Common_name) %>% count(Presence)
