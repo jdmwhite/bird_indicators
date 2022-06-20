@@ -1,0 +1,92 @@
+---
+title: "fyn_noscale"
+author: "Christopher Shortland"
+date: '2022-06-20'
+output: rmarkdown::github_document
+---
+# Libraries
+```{r}
+library(tidyverse)
+library(lme4)
+library(car)
+library(effects)
+library(ggplot2)
+library(beepr)
+library(sjPlot)
+library(glmmTMB)
+library(dplyr)
+```
+#importing final dataset
+```{r}
+final <- read_csv('output/final_df/final_df.csv')
+```
+# Load fynbos stacked df
+```{r}
+fyn_df <- filter(final, indicator=='fynbos')
+```
+#number of indicator species
+```{r}
+fyn_df %>% filter(!Species_Code %in% c('285',"901", "870", "985", "567", "980", "289", "51")) -> fyn_df
+
+length(unique(fyn_df$Common_name))
+unique(fyn_df$Common_name)
+```
+# add in year variable
+```{r}
+fyn_df$Year <- lubridate::year(fyn_df$StartDate)
+str(fyn_df)
+```
+# Option to run with Indicator Type as a fixed effect
+# glmer1 <- glmer(Presence ~ Year*Indicator_Type + (1 + Year|Species_Code), family = 'binomial', data = fyn_df)
+
+# measure time taken...
+```{r}
+start_time <- Sys.time()
+```
+# run a mixed effects model; year = fixed; species = random
+```{r}
+glmer_fyn <- glmer(Presence ~ Year + (Year|Species_Code) + (1|Pentad), family = 'binomial', data = fyn_df)
+beepr::beep()
+end_time <- Sys.time()
+```
+# How long did this take to run?
+```{r}
+end_time - start_time
+```
+# Summary of model
+```{r}
+summary(glmer_fyn)
+```
+# Anova
+```{r}
+Anova(glmer_fyn)
+```
+# Plot effects
+```{r}
+plot(allEffects(glmer_fyn))
+```
+#predict
+```{r}
+fyn_df$predict <- predict(glmer_fyn, fyn_df)
+
+fyn_clean <- fyn_df %>% group_by(Species_Code, Year) %>% summarise(predict = mean(predict))
+```
+#original
+#ggplot(data=fyn_df, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
+```{r}
+ggplot(data=fyn_clean, aes(Year, predict)) + geom_line(aes(color = as.factor(Species_Code)))
+
+plot_model(glmer_fyn, type = "re")
+```
+#number of pentads
+```{r}
+length(unique(fyn_df$Pentad))
+```
+#total no. cards
+```{r}
+nrow(fyn_df)
+```
+#presences and absences
+```{r}
+fyn_df %>% group_by(Common_name) %>% count(Presence)
+```
